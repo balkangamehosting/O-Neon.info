@@ -1,0 +1,53 @@
+IMPLEMENTATION (V1.0.2)
+
+Master server podrška
+Dodata podrška za minecraft servere
+Promenjen password hash
+Dodati baneri
+
+Report BUG
+
+
+#1 js: "Ova opicja nije dozvoljena demo klijentu!"
+#2 div: http://imgur.com/MVRvN1j
+#3 Logovi: ne radi
+#4 Kontakt: 404
+
+
+CHANGE AND ADD
+
+// Muhamed Skoko
+WGET: http://www.computerhope.com/unix/wget.htm
+UNZIP: http://askubuntu.com/questions/86849/how-to-unzip-a-zip-file-from-the-terminal
+UNRAR: https://www.cyberciti.biz/faq/open-rar-file-or-extract-rar-files-under-linux-or-unix/
+
+#1 ADD unzip and unrar
+#2 ADD webftp input za link
+#3 ADD button unzip and unrar
+#4 ADD button - delete file and edit 
+
+
+//EGEAR
+
+BUGFIX (v1.0.1b)
+AutoRestarter fix - mešanje servera koje je potrebno restartovati
+Query Port pri dodavanju servera iz GamePanela
+Ram usage statistika
+Player banner - loš prikaz score-a
+Map upload URL
+Provera SAMP portova i slotova pri pokretanju
+Pregled tiketa, zatvaranje - nedozvoljena akcija
+Console fix - ubrzana malo
+Promenjen editor za podešavanje servera
+Promenjen editor za "O sebi" deo na profilu
+WebFTP corrupted files download
+Sređen transfer servera
+FEATURES (v1.0.1b)
+Dodata unzip opcija na WebFTP-u
+Dodata download opcija na WebFTP-u
+Mogućnost dodavanja linkova na tiketima
+Mogućnost prikazivanja igrača po vremenu ili score-u
+Mogućnost dodavanja više vremena na AutoRestarteru u toku jednog dana
+CHANGES (v1.0.1b)
+Statistika igrača samo za servere koji imaju potvrđeno vlasništvo
+Dodat spam protection na shoutbox

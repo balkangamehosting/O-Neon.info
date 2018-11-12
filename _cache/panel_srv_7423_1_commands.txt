@@ -1,0 +1,35 @@
+# -------------------------------------------------------------------------------
+# This file manages rules in commands (messages beginning with /)
+# and includes rules from rules.txt.
+#
+# File by default contain examples that you can safely remove or change.
+#
+# For help, see notes in rules.txt file.
+# -------------------------------------------------------------------------------
+
+# Prevent /op command but ignore other commands that start with /op like /openinv
+match ^/opb
+ignore perm chatcontrol.bypass.rules
+id /op
+then warn &7Ti nemas dozvolu za ovu komandu
+then notify chatcontrol.notify.rulesalert &8[&7ID %ruleID&8] &7%player: &f%message
+then deny
+then log
+
+match ^/(gm|gamemode)
+ignore perm chatcontrol.bypass.rules
+id /gm
+then warn &7Ti nemas dozvolu za ovu komandu
+then notify chatcontrol.notify.rulesalert &8[&7ID %ruleID&8] &7%player: &f%message
+then deny
+then log
+
+match ^/(heal)
+ignore perm essentials.heal
+then warn &7Ti nemas dozvolu za ovu komandu
+then deny
+
+match ^/trade
+ignore gamemode survival
+then warn &cYou can only use this command in survival mode!
+then deny                                                                        

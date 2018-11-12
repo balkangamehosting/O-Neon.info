@@ -1,0 +1,23 @@
+[en]
+
+MSG_KILL = You Killed [ %s ]
+
+MSG_KILLED = You Got Killed By [ %s ]
+
+[de]
+
+MSG_KILL = Du hast [ %s ] getoetet
+
+MSG_KILLED = Du wurdest von [ %s ] getoetet
+
+[es]
+
+MSG_KILL = Mataste a [ %s ]
+
+MSG_KILLED = Te ha matado [ %s ]
+
+[sv]
+
+MSG_KILL = Du d'o'dade [ %s ]
+
+MSG_KILLED = Du blev d'o'dad av [ %s ]                                   

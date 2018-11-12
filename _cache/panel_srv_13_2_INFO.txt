@@ -1,0 +1,14 @@
+=======================================================
+ 
+In this file are the most important information related to Enigma CTF VIP Plugin
+Vip list is located in vips.ini file. Do not use ; before and after Vips Steam ID
+All plugin setup (Cvars) are located in Settings.cfg
+In file VipShop.cfg are located all setting of vip shop - say / vipshop command
+Next to each setting is the same explanation for cvar
+In file Orders.txt are Nicks and Steam IDs players who boosted server
+In file ChatLog.txt, is all chat-say commands (this is what is entered Vips write) The work of this file is set by Cvar
+ 
+Version of the plugin is 1.7
+Keep up to date regarding the recent version of this plugin, visit forum.kgb-hosting.com
+Greetings from the Dragan015Bre, author of the VIP plugin
+                                                                        

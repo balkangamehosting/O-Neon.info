@@ -1,0 +1,35 @@
+; DO NOT TOUCH IF YOU DO NOT KNOW WHAT YOU ARE DOING!
+
+
+"STEAM_0:0:796337501" "25/03/2018" ;.:RippeR:.
+
+"STEAM_0:0:1313583779" "10/07/2017" ;$0N!C CL4N|ItzAlex:D
+
+// - Expired -
+
+"STEAM_0:0:704548321" "02/05/2017" ;OSM@NOVIC b0t ! [VRANJE]
+
+"STEAM_0:0:1931855224" "06/05/2017" ;B!H
+
+"STEAM_0:1:8325308" "07/04/2018" ;GROM^
+
+"STEAM_0:0:801511150" "10/04/2018" ;[The]_[Fucking_Pro]_ItzAlex:D
+
+// - Expired -
+
+// - Expired -
+
+"STEAM_0:0:1139113543" "13/04/2018" ;TheWalk1ngShad0w
+
+// - Expired -
+
+"STEAM_0:0:568922596" "15/04/2018" ;MaSsiVe ShadOwS|[S]waGG
+
+"STEAM_0:0:1441207874" "16/04/2018" ;dr.mrtvak
+
+"STEAM_0:0:2026360653" "05/11/2017" ;UlTrA Security -PACE
+
+"STEAM_0:0:955065582" "02/05/2017" ;MaSsiVe ShadOwS |HaSke bo3＃!
+
+"STEAM_0:1:4601530" "22/12/2018" ;Kole
+                                    

@@ -1,0 +1,1 @@
+[13-Feb-2017 18:51:26 Europe/Belgrade] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/gamehost/gpanel.gamehoster.biz/admin/libs/lgsl/konfiguracija.php on line 15

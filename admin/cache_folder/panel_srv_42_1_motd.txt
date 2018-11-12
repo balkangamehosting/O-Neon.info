@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+<title>Puerto Rico Community Public</title>
+<style type="text/css">
+pre 	{
+		font-family:Verdana,Tahoma;
+		color:#FFB000;
+    	}
+body	{
+		background:#000000;
+		margin-left:8px;
+		margin-top:0px;
+		}
+a	{
+    	text-decoration:    underline;
+	}
+a:link  {
+    color:  #FFFFFF;
+    }
+a:visited   {
+    color:  #FFFFFF;
+    }
+a:active    {
+    color:  #FFFFFF;
+    }
+a:hover {
+    color:  #FFFFFF;
+    text-decoration:    underline;
+    }
+</style>
+</head>
+<body scroll="yes">
+<pre>
+
+Download the best NEW CS 1.6 - 2017 at <a href="http://cs.e-max.xyz">cs.e-max.xyz</a>
+CS Server hosted by <a href="http://www.e-max.xyz">www.e-max.xyz</a>
+
+Pravila Servera:
+- Psovanje i zaobilazenje filtera !
+- Smaranje za cheat !
+- Bilo koja politicka tema !
+- Vredjanje igraca na serveru !
+- Bilo koji vid varanja !
+NEPOSTOVANJE = KICK/BAN
+
+</pre>
+</body>
+</html>

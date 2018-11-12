@@ -1,0 +1,207 @@
+Crates:
+  Daily:
+    ParticleEffect:
+      enabled: false
+      onlywhenopening: false
+      particle: LAVA
+    Key:
+      material: CARROT
+      name: '&7&l[&b&lDaily &f&lKey&7&l]'
+      enchanted: true
+      lore:
+      - '&7&oThis is a %Crate% Crate key'
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enabled: true
+      enablechancelore: true
+      lore:
+      - '&7Chance: &5&l%chance%%'
+      name: '&5Items for %crate%'
+    OpenInv:
+      name: '&5Opening %crate%'
+    PrizeItem:
+      material: REDSTONE_TORCH_ON
+      name: '&aPrize'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix%Now opening %crate% crate.
+    BlockType: ENDER_PORTAL_FRAME
+    Items:
+      '1':
+        material: paper
+        name: '&5&l100$'
+        chance: 50
+        commands:
+        - eco give %player% 100
+        - msg:%prefix%&7&oYou have opened a Daily Crate and recieved &5&l100$&7!
+        enchanted: false
+        amount: 1
+      '2':
+        enchanted: false
+        material: paper
+        name: '&5&l50$'
+        chance: 50
+        commands:
+        - eco give %player% 50
+        - msg:%prefix%&7&oYou have opened a Daily Crate and recieved &5&l200$&7!
+        amount: 1
+      '3':
+        enchanted: false
+        material: paper
+        name: '&5&l50$'
+        chance: 50
+        commands:
+        - eco give %player% 50
+        - msg:%prefix%&7&oYou have opened a Daily Crate and recieved &5&l500$&7!
+        amount: 1
+      '4':
+        enchanted: false
+        material: dhat
+        name: '&5&lKit Gold'
+        chance: 50
+        commands:
+        - kit Gold %player%
+        - msg:%prefix%&7&oYou have opened a Daily Crate and recieved &5&lKit Gold&7!
+        amount: 1
+      '7':
+        enchanted: false
+        material: gapple
+        name: '&5&l64x Gapple'
+        chance: 15
+        commands:
+        - give %player% gapple 64
+        - msg:%prefix%&7&oYou have opened a Daily Crate and recieved &5&l64x Gapple&7!
+        amount: 1
+      '8':
+        enchanted: true
+        material: carrot
+        name: '&5&l2x Daily Key'
+        chance: 50
+        commands:
+        - crate gk %player% Daily 2
+        - msg:%prefix%&7&oYou have opened a Daily Crate and recieved &5&l2x Daily Key&7!
+        amount: 1
+      '9':
+        enchanted: true
+        material: ARROW
+        name: '&5&lDonator Crate'
+        chance: 50
+        commands:
+        - crate gk %player% Donator 1
+        - msg:%prefix%&7&oYou have opened a Daily Crate and recieved &5&lDonator Key&7!
+        amount: 1
+      '10':
+        material: book
+        name: '&5&l/feed'
+        chance: 5
+        commands:
+        - manuaddp %player% essentials.feed
+        - msg:%prefix%&7&oYou have opened a Daily Crate and recieved &5&l/feed!
+        enchanted: false
+        amount: 1
+      '11':
+        material: book
+        name: '&5&lRank Iron'
+        chance: 1
+        commands:
+        - manuadd %player% Iron
+        - msg:%player%&7&oYou have opened a Daily Crate and recieved &5&lRank Iron!
+        enchanted: false
+        amount: 1 
+  Donator:
+    ParticleEffect:
+      enabled: false
+      onlywhenopening: false
+      particle: FIRE
+    Key:
+      material: ARROW
+      name: '&7&l[&a&lDonator &f&lKey&7&l]'
+      enchanted: true
+      lore:
+      - '&7&oThis is a %Crate% Crate key'
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enabled: true
+      enablechancelore: true
+      lore:
+      - '&7Chance: &5&l%chance%%'
+      name: '&5Items for %crate%'
+    OpenInv:
+      name: '&5Opening %crate%'
+    PrizeItem:
+      material: REDSTONE_TORCH_ON
+      name: '&aPrize'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix%Now opening %crate% crate.
+    BlockType: ENCHANTMENT_TABLE
+    Items:
+      '1':
+        enchanted: false
+        material: paper
+        name: '&5&l300$'
+        chance: 50
+        amount: 1
+        commands:
+        - eco give %player% 300
+        - msg:%prefix%&7&oYou have opened a Donator Crate and recieved a &5300$&7!
+      '2':
+        enchanted: false
+        material: paper
+        name: '&5&l150$'
+        chance: 50
+        amount: 1
+        commands:
+        - eco give %player% 150
+        - msg:%prefix%&7&oYou have opened a Donator Crate and recieved a &5500$&7!
+      '3':
+        enchanted: false
+        material: paper
+        name: '&5&l100$'
+        chance: 50
+        amount: 1
+        commands:
+        - eco give %player% 100
+        - msg:%prefix%&7&oYou have opened a Donator Crate and recieved a &51000$&7!
+      '4':
+        enchanted: false
+        material: paper
+        name: '&5&l250$'
+        chance: 50
+        amount: 1
+        commands:
+        - eco give %player% 250
+        - msg:%prefix%&7&oYou have opened a Donator Crate and recieved a &51500$&7!
+      '7':
+        enchanted: false
+        material: ichestplate
+        name: '&5&lKit Iron'
+        chance: 50
+        amount: 1
+        commands:
+        - kit Iron %player%
+        - msg:%prefix%&7&oYou have opened a Donator Crate and recieved a &5Iron Kit&7!
+      '9':
+        enchanted: true
+        material: ARROW
+        name: '&5&l1x Donator Key'
+        chance: 20
+        amount: 1
+        commands:
+        - crate gk %player% Donator 1
+        - msg:%prefix%&7&oYou have opened a Donator Crate and recieved a &52x Donator Key&7!        
+      '10':
+        material: book
+        name: '&5&l/fly'
+        chance: 1
+        commands:
+        - manuaddp %player% essentials.fly
+        - msg:%prefix%&7&oYou have opened a Daily Crate and recieved &5&l/fly!
+        enchanted: false
+        amount: 1                                                                                                    

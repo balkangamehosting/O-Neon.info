@@ -1,0 +1,43 @@
+; DO NOT TOUCH IF YOU DO NOT KNOW WHAT YOU ARE DOING!
+
+
+// - Expired -
+
+"STEAM_0:0:1919709344" "18/01/2018" ;Yol00`
+
+"STEAM_0:0:1698612364" "16/05/2017" ;$0N!C CL4N|NaP0l3OnNN
+
+"STEAM_0:0:1752280600" "01/04/2018" ;Dest[R]oyeR^ :3
+
+"STEAM_0:0:1313583779" "10/07/2017" ;$0N!C CL4N|ItzAlex:D
+
+// - Expired -
+
+"STEAM_0:0:1260866351" "04/04/2018" ;Enis
+
+// - Expired -
+
+"STEAM_0:0:801511150" "17/07/2017" ;ItzAlex
+
+// - Expired -
+
+// - Expired -
+
+"STEAM_0:0:568922596" "15/04/2018" ;MaSsiVe ShadOwS|[S]waGG
+
+"STEAM_0:0:1441207874" "16/04/2018" ;dr.mrtvak
+
+"STEAM_0:0:1375064363" "17/05/2017" ;Kakarot
+
+"STEAM_0:0:343607992" "17/05/2017" ;UlTrA Security -Luka Smele -__-
+
+"STEAM_0:0:1582734618" "23/05/2017" ;MaSsiVe ShadOwS |NaRKoMaN
+
+"STEAM_0:0:701376671" "04/08/2017" ;^.^OldSql-Darkness
+
+"STEAM_0:0:2026360653" "14/11/2017" ;UlTrA Security -PACE
+
+"STEAM_0:0:955065582" "30/04/2017" ;^ UlTrOn_HaSke bo3＃!^
+
+"STEAM_0:0:396932104" "15/05/2017" ;kum34
+                                    

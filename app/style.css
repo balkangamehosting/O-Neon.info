@@ -1,0 +1,63 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	font-size:14px;
+	color:#666;
+	background-color:#fff;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+
+#main{
+	height:100px;
+	margin:140px auto 50px;
+	position:relative;
+	width:500px;
+}
+
+h1{
+	padding:30px 0;
+	text-align:center;
+	text-shadow:0 1px 1px white;
+	margin-bottom:30px;
+	background-color:#f8f8f8;
+	font-size:24px;
+}
+
+h2{
+	font-size:24px;
+	font-weight:normal;
+	right:40px;
+	text-align:center;
+}
+
+h1,h2{
+	font-family:"Myriad Pro",Arial,Helvetica,sans-serif;
+}
+
+a.install{
+	color:#75c014 !important;
+	font-size:40px;
+}
+
+h2 a i{
+	display:block;
+	font-size:16px;
+}
+
+a, a:visited {
+	color:#0196e3;
+	text-decoration:none;
+	outline:none;
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+a img{
+	border:none;
+}

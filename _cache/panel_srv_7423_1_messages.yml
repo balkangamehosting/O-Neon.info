@@ -1,0 +1,312 @@
+# 
+# The following variables can be used in most messages that involve a punishment:
+time_format: YYYY-MM-dd
+history_time_format: YYYY-MM-dd
+banned_message_base: |-
+  &8&m-------------------------------------------&r
+  &fVas accaunt je banovan sa &b&lWildWest SkyPvP&ff!
+
+  &fRazlog &8» &b$reason
+  &fBannovan od strane &8» &b$displayName
+
+  &fZalite se na &bwww.wildwest.com&f.
+  &8&m-------------------------------------------&r
+banned_message: |-
+  &8&m-------------------------------------------&r
+  &fVas accaunt je banovan sa &b&lWild West&f!
+
+  &fRazlog &8» &b$reason
+  &fBanovan od strane &8» &b$displayName
+  &fTrajanje &8» &b$duration
+
+  &fZalite se na &bwww.wildwest.com&f.
+  &8&m-------------------------------------------&r
+banned_message_permanent: $base
+banned_message_appeal_message: 'Zalite se na: &bwww.wildwest.com'
+banned_message_geoip_blacklist: Banovani ste
+default_ban_reason: Nepostovanje Pravila
+default_mute_reason: Spamming
+permission_error: '&fNemate dozvolu za tu komandu!'
+muted: '&fMute si! ($duration remaining)!'
+muted_permanent: '&fVi ste trajno Mute!'
+notify:
+  banned_player_join: '&fIgrac $player&f je pokusao da udzje ali je banovan ($duration)!'
+  banned_geoip_blacklist: '&f$player&f je pokusao da udzje ali je banovan ($geoip)!'
+error_no_sql_connection: '&fLiteBans nije povezan sa database!'
+internal_error: '&fDoslo je do greske pri koriscenju ove komande.'
+duration_limit_error: '&fMaksimalno dozvoljeno trajanje: $duration'
+warned_join: '&fImate novo upozorenje:'
+warned_join_entry: |-
+  &8&m-----------------------------------------&r
+  &bUpozoreni ste od strane &8» &c $displayName
+  &fRazlog &8» &b$reason
+  &8&m-----------------------------------------&r
+command:
+  ban:
+    usage: '&bKoristite: /ban [-s] <igrac> [duzina] [razlog]'
+    unban_usage: '&bKoristite: /unban <igrac>'
+    example: '&bPrimer: /ban Igrac 7d [razlog]'
+    silent_prefix: '&f[&7Silent&f] '
+    broadcast_ban: |-
+      &8&m-----------------------------------------&r
+       &7» &b$bannedPlayer &fje banovan od strane &b$displayName
+       &7» &fRazlog: &b$reason
+      &8&m-----------------------------------------&r
+    broadcast_tempban: |-
+      &8&m-----------------------------------------&r
+       &7» &b$bannedPlayer &fje privremeno banovan od strane &b$displayName
+       &7» &fRazlog: &b$reason
+       &7» &fTrajanje: &b$duration
+      &8&m-----------------------------------------&r
+    broadcast_ip_ban:  |-
+      &8&m-----------------------------------------&r
+       &7» &b$bannedPlayer &fje ip banovan od strane &b$displayName
+       &7» &fRazlog: &b$reason
+       &7» &fTrajanje: &b$duration
+      &8&m-----------------------------------------&r
+    broadcast_temp_ip_ban:  |-
+      &8&m-----------------------------------------&r
+       &7» &b$bannedPlayer &fje privremeno ip banovan od strane &b$displayName
+       &7» &fRazlog: &b$reason
+       &7» &fTrajanje: &b$duration
+      &8&m-----------------------------------------&r
+    broadcast_ip_ban_hidden: '[Sakriven IP]'
+    broadcast_unban: '&b$bannedPlayer &fje unbanovan od strane &b$displayName'
+    previous_ban_removed: '&fPrethodni ban za igraca $bannedPlayer je uklonjen.'
+    previous_ban_existing: '&f$bannedPlayer je vec banovan a vi nemate dozvolu da
+      zamenite taj ban.'
+    unban_queue: '&bAKo pokusate da ponovo udzjete bicete unbanovani.'
+    error_no_spec: '&fNije utvrdzjeno vazenje vremenske specifikacije!'
+    unban_fail: '&fTaj igrac nije banovan!'
+    exempt: '&fNemozete banovati igraca $player!'
+    broadcast_unmute: '&b$unmutedPlayer &fje vise nije Mute od strane &b$displayName'
+    no_override: '&fTaj igrac je vec banovan!'
+    response: ''
+  mute:
+    usage: '&bKoristite: /mute [-s] <igrac> [trajanje] [razlog]'
+    unmute_usage: '&bKoristite: /unmute <igrac>'
+    example: '&bPrimer: /mute Igrac 7d [razlog]'
+    broadcast: |-
+      &8&m-----------------------------------------&r
+       &7» &b$mutedPlayer &fje Mute od strane &b$displayName
+       &7» &fRazlog: &b$reason
+      &8&m-----------------------------------------&r
+    broadcast_tempmute: |-
+      &8&m-----------------------------------------&r
+       &7» &b$mutedPlayer &fje Mute od strane &b$displayName
+       &7» &fRazlog: &b$reason
+       &7» &fTrajanje: &b$duration
+      &8&m-----------------------------------------&r
+    unmute_fail: '&fTaj igrac nije Mute!'
+    previous_mute_removed: '&fProslo ucutkavanje igraca $mutedPlayer je uklonjeno.'
+    previous_mute_existing: '&f$mutedPlayer je vec Mute i vi nemate dozvolu da
+      to zamenite.'
+    exempt: '&fNemozete ucutkati igraca $player!'
+    notification: '&f$mutedPlayer pokusava da prica ali je Mute.'
+    error_not_enabled: '&fUcutkivanje nije dozvoljeno!'
+    broadcast_ip_mute: '&f$executor &fje IP-ucutkao igraca &f$mutedPlayer &fzbog &f$reason&f'
+    broadcast_temp_ip_mute: '&f$executor &fje privremeno IP-ucutkao igraca &f$mutedIP
+      &fna $tempDuration zbog &f$reason&f'
+    message: |-
+      &8&m-----------------------------------------&r
+      &fUpozoreni ste od strane &8» &b$displayName
+      &fRazlog &8» &b$reason
+      &fTrajanje &8» &b$duration
+      &8&m-----------------------------------------&r
+    message_permanent: |-
+      &8&m-----------------------------------------
+      &fTrajno ste Mute od strane &8» &b$displayName
+      &fRazlog &8» &b$reason
+      &8&m-----------------------------------------&r
+    no_override: '&fIgrac je vec Mute!'
+    response: ''
+  warn:
+    usage: '&bKoristite: /warn [-s] <igrac> [razlog]'
+    unwarn_usage: '&bKoristite: /unwarn <igrac>'
+    example: ''
+    broadcast: |-
+      &8&m-----------------------------------------&r
+       &7» &b$warnedPlayer &fje upozoren od strane &b$displayName
+       &7» &fRazlog: &b$reason
+      &8&m-----------------------------------------&r
+    message: |-
+      &8&m-----------------------------------------&r
+      &fUpozoreni ste od strane &8» &b$displayName
+      &fRazlog &8» &b$reason
+      &8&m-----------------------------------------&r
+    list_entry: ' - Upozoren od $executor: ''$reason&f'' ($timeSince ago)'
+    unwarn_response: '&fZadnje upozorenje je uklonjeno za $player.'
+    unwarn_fail: '&fTaj igrac nema upozorenja!'
+    exempt: '&fNemozete da upozorite $player!'
+    cooldown: '&fmoras da cekas $seconds pre nego $player moze ponovo biti upozoren.'
+    response: ''
+  history:
+    usage: '&f/history <player> [entries=10]'
+    start: '&fHistory for $target (Limit: $limit):'
+    ban_entry: |-
+      &f -- [&f$timeSince ago&f] --&f
+       $name was &fbanned &fby $executor: '&f$reason&f'
+    mute_entry: |-
+      &f -- [&f$timeSince ago&f] --&f
+       $name was &7muted &fby $executor: '&f$reason&f'
+    warn_entry: |-
+      &f -- [&f$timeSince ago&f] --&f
+       $name was &bwarned &fby $executor: '&f$reason&f'
+    kick_entry: |-
+      &f -- [&f$timeSince ago&f] --&f
+       $name was &fkicked &fby $executor: '&f$reason&f'
+    active_suffix: '&f [&fActive&f]'
+    active_suffix_temp: |-
+      &f [&fActive&f]
+      Expires in $duration.
+    error_no_history: '&fNo history found.'
+    unban_entry: |2-
+
+       &f$name was &7unbanned &fby $executor.
+    unmute_entry: |2-
+
+       &f$name was &7unmuted &fby $executor.
+    expired_suffix: '&f [&8Expired&f]'
+  warnings:
+    usage: '&f/warnings <igrac>'
+    start: '&fAktivna upozorenja za $target:'
+  prunehistory:
+    usage: '&f/prunehistory <igrac> [trajanje]'
+    message: '&fHistory pruned.'
+  staffhistory:
+    usage: '&f/staffhistory <igrac> [entries=10]'
+    start: '&fStaff istorija za $target (Limit: $limit):'
+  staffrollback:
+    usage: '&f/staffrollback <igrac> [trajanje]'
+    message: '&fRollback completed, total entries removed: $amount'
+  banlist:
+    start: '&f=== &fPage &b$page&f out of &b$total&f ==='
+  iphistory:
+    usage: '&f/iphistory <igrac> [entries=10]'
+    start: '&fLogin history for $target (Limit: $limit):'
+    entry: '&f - [&f$date&f]&f $name&f:&f $ip'
+    error_no_history: '&fNo history found.'
+  dupeip:
+    usage: '&f/dupeip <igrac>'
+    start: '&fScanning &7$name&f on &f$ip&f. &f[&fOnline&f] [&7Offline&f] [&fBanned&f]'
+    separator: '&f, '
+    online: '&f'
+    offline: '&7'
+    banned: '&f'
+    multiple_addresses: '[$num addresses]'
+    start_no_ip: '&fScanning &7$name&f. &f[&fOnline&f] [&7Offline&f] [&fBanned&f]'
+    muted: '&b'
+  ipreport:
+    start: '&fScanning &f$num&f online players.. [&fOnline&f] [&7Offline&f] [&fBanned&f]'
+    entry: '&f$player&f: $result'
+  checkban:
+    usage: '&f/checkban <igrac>'
+    no_ban: '&fTarget is not banned!'
+    banned: |-
+      &fTarget &f[&f$target&f]&f is banned:
+      Banned by: $executor
+      Reason: $reason&f
+      Banned on: $dateStart
+      Banned until: $dateEnd ($duration)
+      IP ban: $ipban, silent: $silent, permanent: $permanent
+  lastuuid:
+    usage: '&f/lastuuid <igrac|IP>'
+    message: '&fLast UUID for &f$name&f: &f$uuid'
+  geoip:
+    usage: '&f/geoip <igrac|IP>'
+    message: '&f$target&f is from: &f$result'
+    error_disabled: '&fGeoIP support is not enabled in the configuration!'
+    error_unavailable: '&fGeoIP support is currently unavailable, has it been downloaded
+      yet?'
+    error_not_found: '&fGeoIP information for $target not found.'
+  lockdown:
+    usage: '&f/lockdown <reason> | /lockdown end'
+    message: '&fServer lockdown activated (reason: "$reason&f")'
+    stopped: '&fLockdown has been deactivated.'
+    kick_message: |-
+      Server lockdown active, try again later.
+      Reason: $reason
+    error_not_active: '&fLockdown is not active!'
+    kick_message_global: |-
+      Network lockdown active, try again later.
+      Reason: $reason
+  kick:
+    usage: '&f/kick <igrac> [razlog]'
+    no_match: '&fGreska: &bIgrac nije pronadzjen.'
+    message: 'Kikovan od strane &b $displayName &8: &f $reason'
+    message_no_reason: Kikovani ste od strane &b $displayName.
+    response: '&b$player &fje kikovan od strane &b $displayName'
+    broadcast: '&b$player &fje kikovan od strane &b $displayName'
+    broadcast_no_reason: '&b$player &fje kikovan od strane &b$displayName'
+    exempt: '&fNemozete da kikujete $player!'
+    kick_requested: '&bIgrac $player trenutno nije na serveru.'
+  togglechat:
+    toggle_off: '&fChat je ugasen.'
+    toggle_on: '&fChat je upaljen.'
+  clearchat:
+    broadcast: '&fChat je ociscen od &b $displayName .'
+  litebans:
+    reload_success: '&fLiteBans reloaded successfully.'
+    reload_fail_connect: '&fLitebans reloaded. &fFailed to connect to database.'
+    add_history_usage: '&f/litebans addhistory <name> <UUID> <IP>'
+    add_history: '&fHistory added.'
+    fix_history: '&fFixing history for table $table...'
+    fix_history_result: '&fAdded $amount entries.'
+    import_usage: '&f/litebans import start'
+    import_start: '&fImporting from $db, this might take a while...'
+    import_finish: '&fImport finished successfully. $bans bans imported, $ipbans IP-bans.'
+    import_finish_litebans: '&fImport finished successfully. Added $amount entries
+      to the database.'
+    import_fail: '&fImport failed. Check console.'
+    import_unsupported: '&fImporting from ''$name'' is not supported yet!'
+    sqlexec_success: '&fSQL query executed successfully.'
+    sqlexec_failure: '&fFailed to execute.'
+    reload_fail: '&fReload failed.'
+    reload_fail_config: |-
+      &f[LiteBans] &bconfig.yml is not valid and could not be loaded, the default configuration will be used.
+      &fPlease check the server console for more information.
+    reload_fail_messages: |-
+      &f[LiteBans] &bmessages.yml is not valid and could not be loaded, default messages will be used.
+      &fPlease check the server console for more information.
+    fix_history_offline_uuids: '&f$amount UUIDs were not fetched from Mojang since
+      they are offline-mode UUIDs.'
+  checkmute:
+    usage: '&f/checkmute <player>'
+    no_mute: '&fIgrac nije Mute!'
+    muted: |-
+      &fIgrac &f[&f$target&f]&f je Mute:
+      &fMute od strane: $executor
+      &fRazlog: $reason&r
+      &fMute na: $dateStart
+      &fMute do: $dateEnd ($duration)
+      &fMute na serveru &b$serverOrigin&f, server scope: &b$serverScope
+      &fIP mute: $ipban, silent: $silent, permanent: &b $displayName
+  mutechat:
+    response: '&fChat na serveru je trenutno ugasen!'
+    broadcast_disabled: '&fChat na serveru je ugasio &b $displayName.'
+    broadcast_enabled: '&fChat na serveru je upalio &b $displayName.'
+duration:
+  forever: zauvek
+  year: godina
+  years: godine
+  month: mesec
+  months: meseca
+  week: nedelja
+  weeks: nedelja
+  day: dan
+  days: dana
+  hour: sat
+  hours: sata
+  minute: minuta
+  minutes: minuta
+  second: sekundi
+  seconds: sekundi
+  expired: isteklo
+error_no_reason_provided: '&fMorate napisati razlog za ovu kaznu!'
+error_no_uuid_found: '&fIgrac nepostoji.'
+strings:
+  global: global
+  'null': undefined
+  'true': 'yes'
+  'false': 'no'
+                                                                                                            

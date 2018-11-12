@@ -1,0 +1,5 @@
+&7Tagove/Rankove/Kljuceve/Komande &7mozete kupiti putem: &cPayPal
+&7U timu je dozvoljeno maksimalo 2 igraca!&cKazna &7ban na 3 h &7!
+&7Trazenje &cFree &7 ranka strogo zabranjeno!&cKazna&7 3 h mute &7!
+&7Da kupite i prodate neke stvari kucajte &c/shop
+&7Informacije o rankovima mozete naci na spawnu!                                    

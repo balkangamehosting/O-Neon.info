@@ -1,0 +1,32 @@
+<html>
+<head>
+<style type="text/css">
+body	{
+	background-color: #000000;
+	font-family:Verdana,Tahoma;
+		}
+</style>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
+</head>">
+<center><font size="4" color=#c0c0><strong>WanteD JailBreaK Pravila :</strong></font><br></center><br>
+<font color=#c0c0>
+<br>1. Svi se moraju pridrzavati ovih pravila, u suprotnom kazna admina = BAN
+<br>2. FREE KILL - kada CT ubije T bez razloga kaznjava se BANOM na 60 minuta ili prebacivanjem u terore.
+<br>3. Simon ne sme da naredjuje nesto sto je nerealno: "Imas 2 sekunde da dodjes do mene", a nalazi se na drugom kraju mape.
+<br>4. Namerno blokiranje nekog prolaza (jail_rats), vrata(jail_pyramid), kaznjava se slay-om/banom.
+<br>5. Odnos CT i T mora da bude: (1:3)
+<br>6. CT ne smeju da ulaze u celije osim ako: T se krije, ima oruzje, napada CT ili je AFK.
+<br>7. U jednoj rundi samo jedan igrac moze da naredjuje (da bude Simon), osim ako simon ode, bude prebacen u T ili ubijen. Niko drugi nema pravo da naredjuje dok ima simona.
+<br>8. Cuceci znaci da se hoda sa pritisnutim ctrl-om (duck).
+<br>9. Provociranje je strogo zabranjeno i ishod je prebacivanje u T.
+<br>10. Poslednji preziveli T mora da kuca /lr (ako mu se sam ne otvori menu) i mora da izabere duel sa nekim od kantera,
+<br>11. Simon mora precizan da bude u odbrojavanju: "ako kaze imas 10 sekundi", to moraju da budu priblizno 10 sekundi, a ne da broji ukupno 3 sekunde.
+<br>12. Kad poslednji preziveli T bira duel zabranjeno je da "puni" oruzije (dozvoljen je samo 1 metak u sarzeru). Kaznjava se slay-om.
+<br>13. Ako T ubije CT sa HE to se racuna kao da ga je ubio sa puskom/rukama i tog T treba da bude ubijen.</br>
+
+<br>PRAVILA PROVOCIRANJA:
+<br>1. Ishod provociranja je prebacivanje u T > SLAY > KICK > BAN
+<br>2. PROVOCIRANJE JE:
+               <br>1. Kada zatvorenici stoje u kavezu: CT > ne sme da ulazi u kavez.
+               <br>2. Prisustvo CT na fudbalskom terenu u bazenu, kada je u toku fudbalska utakmica ili trka u plivanju.
+<br>3. Pri provociranju T moze da udari, ubije CT i mora da prodje NEKAZNJENO!!!</br>                                    

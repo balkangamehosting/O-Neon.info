@@ -1,0 +1,48 @@
+@mixin skew($side: right, $deg: -20deg, $right: -15px, $left: -15px, $width: 30px, $bg: #fff) {
+    position: relative;
+
+    &:before {
+        z-index: -1;
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+
+        @if $side == right {
+            right: $right;
+        }
+        @else if $side == left {
+            left: $left;
+        }
+
+        display: block;
+        width: $width;
+        background: $bg;
+        -webkit-transform: skew($deg);
+            -ms-transform: skew($deg);
+                transform: skew($deg);
+    }
+}
+
+
+
+.container {
+  display: table;
+  margin: auto;
+}
+
+
+.box {
+  width: 150px;
+  height: 150px;
+  background: darken(red, 10%);
+  margin: 50px;
+}
+
+.right-skew {
+    @include skew($bg: red, $deg: -10deg, $right: -15px, $width: 35px);
+}
+
+.left-skew {
+      @include skew($side: left, $bg: red, $deg: 20deg, $left: -28px, $width: 55px);
+}

@@ -1,0 +1,609 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:10:26] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:40:07] 
+[15:40:07] Server Plugins
+[15:40:07] --------------
+[15:40:07]  Loading plugin: sscanf
+[15:40:07]   Failed (plugins/sscanf: cannot open shared object file: No such file or directory)
+[15:40:07]  Loading plugin: crashdetect
+[15:40:07]   Failed (plugins/crashdetect: cannot open shared object file: No such file or directory)
+[15:40:07]  Loading plugin: streamer
+[15:40:07]   Failed (plugins/streamer: cannot open shared object file: No such file or directory)
+[15:40:07]  Loading plugin: MapAndreas
+[15:40:07]   Failed (plugins/MapAndreas: cannot open shared object file: No such file or directory)
+[15:40:07]  Loaded 0 plugins.
+
+[15:40:07] 
+[15:40:07] Filterscripts
+[15:40:07] ---------------
+[15:40:07]   Loading filterscript 'anim.amx'...
+[15:40:07]   Loaded 1 filterscripts.
+
+[15:40:07] Script[gamemodes/ATHRP.amx]: Run time error 19: "File or function is not found"
+[15:40:07] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:41:53] 
+[15:41:53] Server Plugins
+[15:41:53] --------------
+[15:41:53]  Loading plugin: sscanf
+[15:41:53]   Failed (plugins/sscanf: cannot open shared object file: No such file or directory)
+[15:41:53]  Loading plugin: crashdetect
+[15:41:53]   Failed (plugins/crashdetect: cannot open shared object file: No such file or directory)
+[15:41:53]  Loading plugin: streamer
+[15:41:53]   Failed (plugins/streamer: cannot open shared object file: No such file or directory)
+[15:41:53]  Loading plugin: MapAndreas
+[15:41:53]   Failed (plugins/MapAndreas: cannot open shared object file: No such file or directory)
+[15:41:53]  Loaded 0 plugins.
+
+[15:41:53] 
+[15:41:53] Filterscripts
+[15:41:53] ---------------
+[15:41:53]   Loading filterscript 'anim.amx'...
+[15:41:53]   Loaded 1 filterscripts.
+
+[15:41:55] Script[gamemodes/ATHRP.amx]: Run time error 19: "File or function is not found"
+[15:41:55] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:43:24] 
+[15:43:24] Server Plugins
+[15:43:24] --------------
+[15:43:24]  Loading plugin: sscanf.so
+[15:43:24] 
+
+[15:43:24]  ===============================
+
+[15:43:24]       sscanf plugin loaded.     
+
+[15:43:24]          Version:  2.8.1        
+
+[15:43:24]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:43:24]  ===============================
+
+[15:43:24]   Loaded.
+[15:43:24]  Loading plugin: crashdetect.so
+[15:43:24]   CrashDetect v4.15.1 is OK.
+[15:43:24]   Loaded.
+[15:43:24]  Loading plugin: streamer.so
+[15:43:24] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[15:43:24]   Loaded.
+[15:43:24]  Loaded 3 plugins.
+
+[15:43:24] 
+[15:43:24] Filterscripts
+[15:43:24] ---------------
+[15:43:24]   Loading filterscript 'anim.amx'...
+[15:43:26]   Loaded 1 filterscripts.
+
+[15:43:27] [debug] Run time error 19: "File or function is not found"
+[15:43:27] [debug]  MapAndreas_Init
+[15:43:27] [debug]  MapAndreas_FindZ_For2DCoord
+[15:43:27] [debug] Run time error 19: "File or function is not found"
+[15:43:27] [debug]  MapAndreas_Init
+[15:43:27] [debug]  MapAndreas_FindZ_For2DCoord
+[15:43:27] Script[gamemodes/ATHRP.amx]: Run time error 19: "File or function is not found"
+[15:43:27] Number of vehicle models: 0
+[16:08:28] [connection] 31.176.245.214:52227 requests connection cookie.
+[16:08:29] [connection] incoming connection: 31.176.245.214:52227 id: 0
+[16:08:30] [join] Ishak_Delic has joined the server (0:31.176.245.214)
+[16:08:49] [part] Ishak_Delic has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:12:57] 
+[16:12:57] Server Plugins
+[16:12:57] --------------
+[16:12:57]  Loading plugin: streamer.so
+[16:12:57] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[16:12:57]   Loaded.
+[16:12:57]  Loading plugin: sscanf.so
+[16:12:57] 
+
+[16:12:57]  ===============================
+
+[16:12:57]       sscanf plugin loaded.     
+
+[16:12:57]    (c) 2009 Alex "Y_Less" Cole
+
+[16:12:57]    0.3d-R2 500 Players "dnee"
+
+[16:12:57]  ===============================
+
+[16:12:57]   Loaded.
+[16:12:57]  Loading plugin: FileFunctions.so
+[16:12:57]   Loaded.
+[16:12:57]  Loading plugin: Whirlpool.so
+[16:12:57]  
+[16:12:57]  ==================
+[16:12:57]  
+[16:12:57]   Whirlpool loaded
+[16:12:57]  
+[16:12:57]  ==================
+[16:12:57]  
+[16:12:57]   Loaded.
+[16:12:57]  Loaded 4 plugins.
+
+[16:12:57] 
+[16:12:57] Filterscripts
+[16:12:57] ---------------
+[16:12:57]   Loading filterscript 'antiddos.amx'...
+[16:12:57]   Loaded 1 filterscripts.
+
+[16:12:57]  
+[16:12:57]  
+[16:12:57]  
+[16:12:57]  ======================================= 
+[16:12:57]  |                                     | 
+[16:12:57]  |        YSI version 1.06.0002        | 
+[16:12:57]  |        By Alex "Y_Less" Cole        | 
+[16:12:57]  |                                     | 
+[16:12:57]  ======================================= 
+[16:12:57]  
+[16:12:57]  
+[16:12:57]  
+[16:12:57] Ucitavanje Moda!
+[16:12:57] Mape Ucitane!
+[16:13:02] Ucitana server podesavanja.
+[16:13:02] Ucitana podesavanja organizacija.
+[16:13:02] Labeli ucitani...
+[16:13:02] Pickupi Ucitani...
+[16:13:02] *************	 ************** 
+[16:13:02] *************     ************* 
+[16:13:02] ***       ***     ***           
+[16:13:02] ***       ***     ***		   
+[16:13:02] *************     ***		   
+[16:13:02] *************     ***           
+[16:13:02] ***       ***     ***           
+[16:13:02] ***       ***     ***           
+[16:13:02] ***       ***     ************* 
+[16:13:02] ***       ***     ************* 
+[16:13:02] -----------------------
+[16:13:02] Diamond City RolePlay
+[16:13:02] GameMode By:Matija & Vukodlak
+[16:13:02] ------------------------
+[16:13:02] Number of vehicle models: 73
+[16:18:57] [connection] 77.238.202.249:2207 requests connection cookie.
+[16:18:58] [connection] incoming connection: 77.238.202.249:2207 id: 0
+[16:18:58] [join] Annel_Smith has joined the server (0:77.238.202.249)
+[16:20:17] [connection] 212.200.61.190:53236 requests connection cookie.
+[16:20:18] [connection] incoming connection: 212.200.61.190:53236 id: 1
+[16:20:19] [join] Tarzan_Gari has joined the server (1:212.200.61.190)
+[16:23:15] [part] Annel_Smith has left the server (0:0)
+[16:23:15] [part] Tarzan_Gari has left the server (1:1)
+[16:24:04] Korisnicki racuni uspjesno sacuvani.
+[16:30:50] [connection] 77.238.202.249:1051 requests connection cookie.
+[16:30:51] [connection] 77.238.202.249:1051 requests connection cookie.
+[16:30:51] [connection] 77.238.202.249:1051 requests connection cookie.
+[16:30:51] [connection] 77.238.202.249:1051 requests connection cookie.
+[16:30:51] [connection] 77.238.202.249:1051 requests connection cookie.
+[16:30:51] [connection] 77.238.202.249:1051 requests connection cookie.
+[16:30:51] [connection] 77.238.202.249:1052 requests connection cookie.
+[16:30:51] [connection] 77.238.202.249:1052 requests connection cookie.
+[16:30:51] [connection] 77.238.202.249:1052 requests connection cookie.
+[16:30:51] [connection] 77.238.202.249:1052 requests connection cookie.
+[16:31:17] [connection] 77.238.202.249:1053 requests connection cookie.
+[16:31:18] [connection] incoming connection: 77.238.202.249:1053 id: 0
+[16:31:19] [join] Annel_Smith has joined the server (0:77.238.202.249)
+[16:34:06] [part] Annel_Smith has left the server (0:1)
+[16:34:20] [connection] 77.238.202.249:1054 requests connection cookie.
+[16:34:21] [connection] incoming connection: 77.238.202.249:1054 id: 0
+[16:34:21] [join] Annel_Smith has joined the server (0:77.238.202.249)
+[16:34:59] [part] Annel_Smith has left the server (0:1)
+[16:36:54] Korisnicki racuni uspjesno sacuvani.
+[16:50:39] Korisnicki racuni uspjesno sacuvani.
+[16:56:33] [connection] 87.116.179.44:52398 requests connection cookie.
+[16:56:34] [connection] incoming connection: 87.116.179.44:52398 id: 0
+[16:56:40] [join] Darko_Lazarevic has joined the server (0:87.116.179.44)
+[17:02:50] Korisnicki racuni uspjesno sacuvani.
+[17:03:17] [connection] 213.202.88.98:64041 requests connection cookie.
+[17:03:18] [connection] incoming connection: 213.202.88.98:64041 id: 1
+[17:03:18] [join] Krazz_Castellop has joined the server (1:213.202.88.98)
+[17:04:26] [connection] 77.238.202.249:1071 requests connection cookie.
+[17:04:27] [connection] incoming connection: 77.238.202.249:1071 id: 2
+[17:04:28] [join] Annel_Smith has joined the server (2:77.238.202.249)
+[17:04:48] [connection] 31.176.245.214:61235 requests connection cookie.
+[17:04:49] [connection] incoming connection: 31.176.245.214:61235 id: 3
+[17:04:50] [join] Ishak_Smith has joined the server (3:31.176.245.214)
+[17:08:05] [part] Krazz_Castellop has left the server (1:1)
+[17:13:22] Korisnicki racuni uspjesno sacuvani.
+[17:17:29] [part] Darko_Lazarevic has left the server (0:0)
+[17:18:48] [connection] 87.116.179.44:52248 requests connection cookie.
+[17:18:49] [connection] incoming connection: 87.116.179.44:52248 id: 0
+[17:19:38] [connection] 87.116.179.44:52382 requests connection cookie.
+[17:19:39] [connection] incoming connection: 87.116.179.44:52382 id: 0
+[17:19:39] [join] Darko_Lazarevic has joined the server (0:87.116.179.44)
+[17:23:56] Korisnicki racuni uspjesno sacuvani.
+[17:34:29] Korisnicki racuni uspjesno sacuvani.
+[17:36:28] [part] Darko_Lazarevic has left the server (0:0)
+[17:45:01] Korisnicki racuni uspjesno sacuvani.
+[17:50:07] [connection] 31.223.135.122:38840 requests connection cookie.
+[17:50:08] [connection] incoming connection: 31.223.135.122:38840 id: 0
+[17:50:09] [join] Coke_Madafaka has joined the server (0:31.223.135.122)
+[17:50:44] [connection] 87.116.179.44:52474 requests connection cookie.
+[17:50:45] [connection] incoming connection: 87.116.179.44:52474 id: 1
+[17:50:45] [join] Darko_Lazarevic has joined the server (1:87.116.179.44)
+[17:54:16] [part] Coke_Madafaka has left the server (0:1)
+[17:55:34] Korisnicki racuni uspjesno sacuvani.
+[17:55:56] [part] Darko_Lazarevic has left the server (1:1)
+[17:58:09] [part] Ishak_Smith has left the server (3:1)
+[18:00:35] --- Server Shutting Down.
+[18:00:35] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:04:03] 
+[18:04:03] Server Plugins
+[18:04:03] --------------
+[18:04:03]  Loading plugin: streamer.so
+[18:04:03] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[18:04:03]   Loaded.
+[18:04:03]  Loading plugin: sscanf.so
+[18:04:03] 
+
+[18:04:03]  ===============================
+
+[18:04:03]       sscanf plugin loaded.     
+
+[18:04:03]    (c) 2009 Alex "Y_Less" Cole
+
+[18:04:03]    0.3d-R2 500 Players "dnee"
+
+[18:04:03]  ===============================
+
+[18:04:03]   Loaded.
+[18:04:03]  Loading plugin: FileFunctions.so
+[18:04:03]   Loaded.
+[18:04:03]  Loading plugin: Whirlpool.so
+[18:04:03]  
+[18:04:03]  ==================
+[18:04:03]  
+[18:04:03]   Whirlpool loaded
+[18:04:03]  
+[18:04:03]  ==================
+[18:04:03]  
+[18:04:03]   Loaded.
+[18:04:03]  Loaded 4 plugins.
+
+[18:04:03] 
+[18:04:03] Filterscripts
+[18:04:03] ---------------
+[18:04:03]   Loading filterscript 'antiddos.amx'...
+[18:04:03]   Loaded 1 filterscripts.
+
+[18:04:03]  
+[18:04:03]  
+[18:04:03]  
+[18:04:03]  ======================================= 
+[18:04:03]  |                                     | 
+[18:04:03]  |        YSI version 1.06.0002        | 
+[18:04:03]  |        By Alex "Y_Less" Cole        | 
+[18:04:03]  |                                     | 
+[18:04:03]  ======================================= 
+[18:04:03]  
+[18:04:03]  
+[18:04:03]  
+[18:04:03] Ucitavanje Moda!
+[18:04:03] Mape Ucitane!
+[18:04:08] Ucitana server podesavanja.
+[18:04:08] Ucitana podesavanja organizacija.
+[18:04:08] Labeli ucitani...
+[18:04:08] Pickupi Ucitani...
+[18:04:08] *************	 ************** 
+[18:04:08] *************     ************* 
+[18:04:08] ***       ***     ***           
+[18:04:08] ***       ***     ***		   
+[18:04:08] *************     ***		   
+[18:04:08] *************     ***           
+[18:04:08] ***       ***     ***           
+[18:04:08] ***       ***     ***           
+[18:04:08] ***       ***     ************* 
+[18:04:08] ***       ***     ************* 
+[18:04:08] -----------------------
+[18:04:08] Diamond City RolePlay
+[18:04:08] GameMode By:Matija & Vukodlak
+[18:04:08] ------------------------
+[18:04:08] Number of vehicle models: 73
+[18:05:40] [connection] 77.238.202.249:1319 requests connection cookie.
+[18:05:41] [connection] incoming connection: 77.238.202.249:1319 id: 0
+[18:05:41] [join] Annel_Smith has joined the server (0:77.238.202.249)
+[18:13:48] [part] Annel_Smith has left the server (0:0)
+[18:14:34] Korisnicki racuni uspjesno sacuvani.
+[18:20:54] [connection] 87.116.179.44:52332 requests connection cookie.
+[18:20:55] [connection] 87.116.179.44:52332 requests connection cookie.
+[18:20:56] [connection] incoming connection: 87.116.179.44:52332 id: 0
+[18:20:56] [join] Darko_Lazarevic has joined the server (0:87.116.179.44)
+[18:24:59] Korisnicki racuni uspjesno sacuvani.
+[18:32:01] [part] Darko_Lazarevic has left the server (0:1)
+[18:35:25] Korisnicki racuni uspjesno sacuvani.
+[18:45:49] Korisnicki racuni uspjesno sacuvani.
+[18:56:14] Korisnicki racuni uspjesno sacuvani.
+[19:06:38] Korisnicki racuni uspjesno sacuvani.
+[19:17:03] Korisnicki racuni uspjesno sacuvani.
+[19:27:27] Korisnicki racuni uspjesno sacuvani.
+[19:37:52] Korisnicki racuni uspjesno sacuvani.
+[19:48:16] Korisnicki racuni uspjesno sacuvani.
+[19:58:41] Korisnicki racuni uspjesno sacuvani.
+[20:09:05] Korisnicki racuni uspjesno sacuvani.
+[20:19:30] Korisnicki racuni uspjesno sacuvani.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:34:16] 
+[20:34:16] Server Plugins
+[20:34:16] --------------
+[20:34:16]  Loading plugin: streamer.so
+[20:34:16] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[20:34:16]   Loaded.
+[20:34:16]  Loading plugin: sscanf.so
+[20:34:16] 
+
+[20:34:16]  ===============================
+
+[20:34:16]       sscanf plugin loaded.     
+
+[20:34:16]    (c) 2009 Alex "Y_Less" Cole
+
+[20:34:16]    0.3d-R2 500 Players "dnee"
+
+[20:34:16]  ===============================
+
+[20:34:16]   Loaded.
+[20:34:16]  Loading plugin: FileFunctions.so
+[20:34:16]   Loaded.
+[20:34:16]  Loading plugin: Whirlpool.so
+[20:34:16]  
+[20:34:16]  ==================
+[20:34:16]  
+[20:34:16]   Whirlpool loaded
+[20:34:16]  
+[20:34:16]  ==================
+[20:34:16]  
+[20:34:16]   Loaded.
+[20:34:16]  Loaded 4 plugins.
+
+[20:34:17] 
+[20:34:17] Filterscripts
+[20:34:17] ---------------
+[20:34:17]   Loading filterscript 'antiddos.amx'...
+[20:34:17]   Loaded 1 filterscripts.
+
+[20:34:17]  
+[20:34:17]  
+[20:34:17]  
+[20:34:17]  ======================================= 
+[20:34:17]  |                                     | 
+[20:34:17]  |        YSI version 1.06.0002        | 
+[20:34:17]  |        By Alex "Y_Less" Cole        | 
+[20:34:17]  |                                     | 
+[20:34:17]  ======================================= 
+[20:34:17]  
+[20:34:17]  
+[20:34:17]  
+[20:34:17] Ucitavanje Moda!
+[20:34:17] Mape Ucitane!
+[20:34:19] Ucitana server podesavanja.
+[20:34:19] Ucitana podesavanja organizacija.
+[20:34:19] Labeli ucitani...
+[20:34:19] Pickupi Ucitani...
+[20:34:19] *************	 ************** 
+[20:34:19] *************     ************* 
+[20:34:19] ***       ***     ***           
+[20:34:19] ***       ***     ***		   
+[20:34:19] *************     ***		   
+[20:34:19] *************     ***           
+[20:34:19] ***       ***     ***           
+[20:34:19] ***       ***     ***           
+[20:34:19] ***       ***     ************* 
+[20:34:19] ***       ***     ************* 
+[20:34:19] -----------------------
+[20:34:19] Diamond City RolePlay
+[20:34:19] GameMode By:Annel Aljo & Ishak
+[20:34:19] ------------------------
+[20:34:19] Number of vehicle models: 73
+[20:35:18] [connection] 77.238.202.249:4103 requests connection cookie.
+[20:35:19] [connection] incoming connection: 77.238.202.249:4103 id: 0
+[20:35:20] [join] Annel_Smith has joined the server (0:77.238.202.249)
+[20:39:14] [part] Annel_Smith has left the server (0:1)
+[20:44:44] Korisnicki racuni uspjesno sacuvani.
+[20:55:09] Korisnicki racuni uspjesno sacuvani.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:58:55] 
+[20:58:55] Server Plugins
+[20:58:55] --------------
+[20:58:55]  Loading plugin: streamer.so
+[20:58:55] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[20:58:55]   Loaded.
+[20:58:55]  Loading plugin: sscanf.so
+[20:58:55] 
+
+[20:58:55]  ===============================
+
+[20:58:55]       sscanf plugin loaded.     
+
+[20:58:55]    (c) 2009 Alex "Y_Less" Cole
+
+[20:58:55]    0.3d-R2 500 Players "dnee"
+
+[20:58:55]  ===============================
+
+[20:58:55]   Loaded.
+[20:58:55]  Loading plugin: FileFunctions.so
+[20:58:55]   Loaded.
+[20:58:55]  Loading plugin: Whirlpool.so
+[20:58:55]  
+[20:58:55]  ==================
+[20:58:55]  
+[20:58:55]   Whirlpool loaded
+[20:58:55]  
+[20:58:55]  ==================
+[20:58:55]  
+[20:58:55]   Loaded.
+[20:58:55]  Loaded 4 plugins.
+
+[20:58:56] 
+[20:58:56] Filterscripts
+[20:58:56] ---------------
+[20:58:56]   Loading filterscript 'antiddos.amx'...
+[20:58:56]   Loaded 1 filterscripts.
+
+[20:58:56]  
+[20:58:56]  
+[20:58:56]  
+[20:58:56]  ======================================= 
+[20:58:56]  |                                     | 
+[20:58:56]  |        YSI version 1.06.0002        | 
+[20:58:56]  |        By Alex "Y_Less" Cole        | 
+[20:58:56]  |                                     | 
+[20:58:56]  ======================================= 
+[20:58:56]  
+[20:58:56]  
+[20:58:56]  
+[20:58:56] Ucitavanje Moda!
+[20:58:56] Mape Ucitane!
+[20:58:58] Ucitana server podesavanja.
+[20:58:58] Ucitana podesavanja organizacija.
+[20:58:58] Labeli ucitani...
+[20:58:58] Pickupi Ucitani...
+[20:58:58] *************	 ************** 
+[20:58:58] *************     ************* 
+[20:58:58] ***       ***     ***           
+[20:58:58] ***       ***     ***		   
+[20:58:58] *************     ***		   
+[20:58:58] *************     ***           
+[20:58:58] ***       ***     ***           
+[20:58:58] ***       ***     ***           
+[20:58:58] ***       ***     ************* 
+[20:58:58] ***       ***     ************* 
+[20:58:58] -----------------------
+[20:58:58] Diamond City RolePlay
+[20:58:58] GameMode By:Annel Aljo & Ishak
+[20:58:58] ------------------------
+[20:58:58] Number of vehicle models: 73
+[20:59:34] [connection] 77.238.202.249:4272 requests connection cookie.
+[20:59:35] [connection] incoming connection: 77.238.202.249:4272 id: 0
+[20:59:36] [join] Annel_Smith has joined the server (0:77.238.202.249)
+[21:06:54] RCON (In-Game): Player #0 (Annel_Smith) has logged in.
+[21:09:27] Korisnicki racuni uspjesno sacuvani.
+[21:19:56] Korisnicki racuni uspjesno sacuvani.
+[21:24:49] [part] Annel_Smith has left the server (0:1)
+[21:30:24] Korisnicki racuni uspjesno sacuvani.
+[21:40:52] Korisnicki racuni uspjesno sacuvani.
+[21:51:19] Korisnicki racuni uspjesno sacuvani.
+[22:01:46] Korisnicki racuni uspjesno sacuvani.
+[22:12:10] Korisnicki racuni uspjesno sacuvani.
+[22:22:35] Korisnicki racuni uspjesno sacuvani.
+[22:32:59] Korisnicki racuni uspjesno sacuvani.
+[22:43:23] Korisnicki racuni uspjesno sacuvani.
+[22:53:47] Korisnicki racuni uspjesno sacuvani.
+[23:04:12] Korisnicki racuni uspjesno sacuvani.
+[23:14:36] Korisnicki racuni uspjesno sacuvani.
+[23:25:00] Korisnicki racuni uspjesno sacuvani.
+[23:35:25] Korisnicki racuni uspjesno sacuvani.
+[23:45:49] Korisnicki racuni uspjesno sacuvani.
+[23:56:13] Korisnicki racuni uspjesno sacuvani.
+[00:06:37] Korisnicki racuni uspjesno sacuvani.
+[00:17:02] Korisnicki racuni uspjesno sacuvani.
+[00:27:26] Korisnicki racuni uspjesno sacuvani.
+[00:37:51] Korisnicki racuni uspjesno sacuvani.
+[00:48:15] Korisnicki racuni uspjesno sacuvani.
+[00:58:40] Korisnicki racuni uspjesno sacuvani.
+[01:09:05] Korisnicki racuni uspjesno sacuvani.
+[01:19:29] Korisnicki racuni uspjesno sacuvani.
+[01:29:53] Korisnicki racuni uspjesno sacuvani.
+[01:40:18] Korisnicki racuni uspjesno sacuvani.
+[01:50:42] Korisnicki racuni uspjesno sacuvani.
+[02:01:07] Korisnicki racuni uspjesno sacuvani.
+[02:11:32] Korisnicki racuni uspjesno sacuvani.
+[02:21:56] Korisnicki racuni uspjesno sacuvani.
+[02:22:09] [connection] 31.223.131.89:22348 requests connection cookie.
+[02:22:10] [connection] incoming connection: 31.223.131.89:22348 id: 0
+[02:22:10] [join] Aljo_Corleone has joined the server (0:31.223.131.89)
+[02:24:49] Pogresan RCON login | IP: 31.223.131.89 | Password pokusaja 1admin1
+[02:24:49] RCON (In-Game): Player #0 (Aljo_Corleone) failed login.
+[02:24:50] [part] Aljo_Corleone has left the server (0:2)
+[02:26:02] [connection] 31.223.131.89:22671 requests connection cookie.
+[02:26:03] [connection] incoming connection: 31.223.131.89:22671 id: 0
+[02:26:03] [join] Aljo_Corleone has joined the server (0:31.223.131.89)
+[02:26:39] [part] Aljo_Corleone has left the server (0:0)
+[02:28:21] [connection] 31.223.219.4:59802 requests connection cookie.
+[02:28:22] [connection] incoming connection: 31.223.219.4:59802 id: 0
+[02:28:23] [join] Aljo_Corleone has joined the server (0:31.223.219.4)
+[02:29:59] Pogresan RCON login | IP: 31.223.219.4 | Password pokusaja 1admin1
+[02:29:59] RCON (In-Game): Player #0 (Aljo_Corleone) failed login.
+[02:30:00] [part] Aljo_Corleone has left the server (0:2)
+[02:32:22] Korisnicki racuni uspjesno sacuvani.
+                                                                        

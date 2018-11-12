@@ -1,0 +1,358 @@
+groups:
+  Member:
+    options:
+      default: 'true'
+      build: 'true'
+      suffix: ''
+      weight: 10000
+      prefix: '&8[&7Member&8]&7 '
+    inheritance: []
+    permissions:
+    - sbwe.use
+    - essentials.balance.top
+    - shopguiplus.shops.*
+    - worldedit.wand
+    - worldedit.selection.pos
+    - silkspawners.place.*
+    - serversigns.use.vote
+    - serversigns.use.surge
+    - void2spawn.tp
+    - -askyblock.island.settings
+    - shopguiplus.shop.*
+    - shopguiplus.shop
+    - shopguiplus.use
+    - askyblock.craft.*
+    - askyblock.island.*
+    - essentials.warps.lootchests
+    - npc.guide
+    - deluxechat.color
+    - deluxechat.pm
+    - chestcommands.open.(auctions.yml|warp.yml|rules.yml|shop.yml|donate.yml|voting.yml|skyblock.yml|staff.yml|help.yml|sbcreate.yml|guide.yml)
+    - guide.use
+    - essentials.(silentjoin|silentquit)
+    - islandworld.island.(create|home|sethome|delhome|spawn|accept|deny|join)
+    - chestcommands.open.main.yml
+    - craftbook.mech.elevator.use
+    - craftbook.mech.bridge.use
+    - craftbook.mech.chair.use
+    - craftbook.mech.door.use
+    - jungle.schematic
+    - askyblock.island.*
+    - askyblock.team.create
+    - askyblock.team.kick
+    - askyblock.team.makeleader
+    - askyblock.team.join
+    - askyblock.island.controlpanel
+    - desert.schematic
+    - craftbook.mech.gate.use
+    - essentials.kits.guide
+    - chatformat.Member
+    - islandworld.create.(jungle|desert|taiga|acacia|forest)
+    - auction.bid
+    - essentials.signs.use.(buy|sell|warp|free|disposal|kit|repair)
+    - essentials.(worth|warp|realname|balance|bal|home|tpa|tpahere|motd|helpop|help|tpaccept|tpdeny|pay|rules|who|list|afk|afk.auto|spawn|mail|msg|ignore|kit|sethome|delhome)
+    - essentials.warps.(lootchests|mine)
+    - -bukkit.command.plugins
+    - -bukkit.command.help
+    - -bukkit.command.?
+    - -essentials.mail
+    - essentials.motd
+    - -chestcommands.economy.bypass
+  Donator:
+    options:
+      default: 'false'
+      build: 'true'
+      suffix: ''
+      prefix: '&8[&bDonator&8]&7 '
+      weight: 100
+    inheritance:
+    - Member
+    permissions:
+    - auction.start
+    - auction.bid
+    - askyblock.team.vip
+    - essentials.sethome.multiple.skywarrior
+    - essentials.afk.kickexempt
+    - essentials.joinfullserver
+    - craftbook.mech.(door|gate)
+    - npc.guide
+    - askyblock.team.skywarrior
+    - chestcommands.open.(main.yml|auctions.yml|warp.yml|rules.yml|shop.yml|donate.yml|voting.yml|skyblock.yml|staff.yml|help.yml|sbcreate.yml|guide.yml)
+    - guide.use
+    - essentials.(silentjoin|silentquit)
+    - islandworld.island.(create|home|sethome|delhome|spawn|accept|deny|join)
+    - islandworld.create.(jungle|desert|taiga|acacia|forest)
+    - essentials.signs.use.(buy|sell|warp|free|disposal|kit|repair)
+    - essentials.(worth|warp|realname|balance|bal|home|tpa|tpahere|motd|helpop|help|tpaccept|tpdeny|pay|rules|who|list|afk|afk.auto|spawn|mail|msg|ignore|kit|sethome|delhome)
+    - essentials.warps.(lootchests|mine)
+    - -bukkit.command.(plugins|help|?)
+    - -essentials.mail
+    - essentials.kits.donator
+    - echopet.pet.*
+  Warrior:
+    options:
+      default: 'false'
+      build: 'true'
+      suffix: ''
+      prefix: '&8[&2&lWarrior&8]&7 '
+      weight: 101
+    inheritance:
+    - Donator
+    permissions:
+    - chatcolor.underline
+    - essentials.sethome.multiple.insane
+    - askyblock.team.skylord
+    - autotool.use
+    - essentials.nick
+    - essentials.nick.color
+    - essentials.keepxp
+    - essentials.ptime
+    - essentials.enderchest
+    - essentials.hat
+    - essentials.sethome.multiple.Insane
+    - silkspawners.place.(pig|chicken|sheep|zombie|spider|cow|skeleton|rabbit)
+    - essentials.kit
+    - essentials.heal
+    - essentials.repair.all
+    - -essentials.kits.member
+    - essentials.nick.color
+    - essentials.nick.magic
+    - essentials.nick
+    - playervaults.size.4
+    - playervaults.amount.3
+    - essentials.kits.warrior
+  Elite:
+    options:
+      default: 'false'
+      build: 'true'
+      suffix: ''
+      prefix: '&8[&e&lElite&8]&7 '
+      weight: 102
+    inheritance:
+    - Warrior
+    permissions:
+    - silkspawners.changetype.(cow|chicken|sheep|zombie|skeleton)
+    - essentials.sethome.multiple.crazed
+    - chatformat.Crazed
+    - essentials.sethome.multiple.crazed
+    - essentials.workbench
+    - playervaults.workbench
+    - askyblock.team.skyking
+    - essentials.near
+    - essentials.back
+    - essentials.feed
+    - silkspawners.place.(pig|chicken|sheep|zombie|spider|cow|skeleton|rabbit|enderman|blaze)
+    - essentials.kit
+    - -essentials.kits.member
+    - essentials.nick.color
+    - essentials.nick.magic
+    - essentials.nick.format
+    - essentials.nick
+    - essentials.ignore
+    - playervaults.size.6
+    - playervaults.amount.5
+    - essentials.kits.elite
+  Veteran:
+    options:
+      default: 'false'
+      build: 'true'
+      suffix: ''
+      prefix: '&8[&6&lVeteran&8]&7 '
+      weight: 103
+    inheritance:
+    - Elite
+    permissions:
+    - silkspawners.changetype.(cow|chicken|sheep|zombie|skeleton|creeper|spider)
+    - essentials.sethome.multiple.crazed
+    - essentials.sethome.multiple.crazed
+    - essentials.workbench
+    - playervaults.workbench
+    - askyblock.team.skyking
+    - essentials.near
+    - essentials.back
+    - essentials.feed
+    - silkspawners.place.(pig|chicken|sheep|zombie|spider|cow|skeleton|rabbit|enderman|blaze|pigman)
+    - essentials.kit
+    - -essentials.kits.member
+    - essentials.nick.color
+    - essentials.nick.magic
+    - essentials.nick.format
+    - essentials.nick
+    - playervaults.size.8
+    - playervaults.amount.8
+    - essentials.kits.veteran
+  Overlord:
+    options:
+      default: 'false'
+      build: 'true'
+      suffix: ''
+      prefix: '&8[&4&lOver&f&lLord&8]&7 '
+      weight: 103
+    inheritance:
+    - Veteran
+    permissions:
+    - silkspawners.changetype.(cow|chicken|sheep|zombie|skeleton|creeper|spider|enderman|blaze|rabbit)
+    - essentials.kits.overlord
+    - essentials.workbench
+    - playervaults.workbench
+    - askyblock.team.skyking
+    - essentials.near
+    - essentials.back
+    - essentials.feed
+    - essentials.tpadeny
+    - silkspawners.place.*
+    - essentials.kit
+    - -essentials.kits.member
+    - essentials.kits.*
+    - essentials.nick.color
+    - essentials.nick.magic
+    - essentials.nick.format
+    - essentials.nick
+    - playervaults.size.10
+    - playervaults.amount.10
+  Moderator:
+    options:
+      default: 'false'
+      build: 'true'
+      suffix: ''
+      weight: 109
+      prefix: '&8[&aMod&8]&7 '
+    inheritance:
+    - Overlord
+    permissions:
+    - modifyworld.*
+    - essentials.(kick|kit|chat.color|joinfullserver|helpop.recieve|clearinventory|kick.notify|ban.notify||tempban|tempban.offline|jail|jails|togglejail|togglejail.offline|weather|near|warp|warps|warp.list|whois|invsee|invsee.preventmodify|tpa|mute|mute.notify)
+    - use.partybomb
+    - antidrops.bypass
+    - bm.(unmute|tempmute|mute|kick|ban|tempban)
+    - LegendaryStaffList.Staff
+    - bukkit.command.ban
+    - bukkit.command.ban.player
+    - bukkit.command.kick
+  Admin:
+    permissions:
+    - chatformat.admin
+    - serverpoints.admin
+    - permissions.manage.users
+    - auction.admin
+    - bukkit.broadcast
+    - bukkit.broadcast.admin
+    - bukkit.command
+    - bukkit.command.defaultgamemode
+    - bukkit.command.gamemode
+    - bukkit.command.give
+    - bukkit.command.kill
+    - bukkit.command.list
+    - bukkit.command.me
+    - bukkit.command.op
+    - bukkit.command.op.give
+    - bukkit.command.op.take
+    - bukkit.command.plugins
+    - bukkit.command.reload
+    - bukkit.command.save
+    - bukkit.command.save.disable
+    - bukkit.command.save.enable
+    - bukkit.command.save.perform
+    - bukkit.command.say
+    - bukkit.command.seed
+    - bukkit.command.stop
+    - bukkit.command.tell
+    - bukkit.command.time
+    - bukkit.command.time.add
+    - bukkit.command.time.set
+    - bukkit.command.toggledownfall
+    - bukkit.command.unban
+    - bukkit.command.unban.ip
+    - bukkit.command.unban.player
+    - bukkit.command.version
+    - bukkit.command.xp
+    - essentials.bigtree
+    - essentials.break
+    - essentials.enchant
+    - essentials.feed
+    - essentials.feed.others
+    - essentials.gamemode
+    - essentials.gamemode.others
+    - essentials.give
+    - essentials.god
+    - essentials.god.others
+    - essentials.heal
+    - essentials.heal.others
+    - essentials.item
+    - essentials.more
+    - essentials.ptime
+    - essentials.ptime.others
+    - essentials.time
+    - essentials.time.set
+    - essentials.tree
+    - essentials.unlimited
+    - essentials.repair
+    - essentials.afk.kickexempt
+    - essentials.depth
+    - essentials.list.hidden
+    - essentials.powertool
+    - essentials.realname
+    - essentials.spawner.*
+    - essentials.burn
+    - essentials.fireball
+    - essentials.gc
+    - essentials.invsee
+    - essentials.kickall
+    - essentials.kill
+    - essentials.delhome.others
+    - essentials.jump
+    - essentials.top
+    - essentials.tp
+    - essentials.tpohere
+    - essentials.tphere
+    - essentials.teleport.hidden
+    - essentials.tpo
+    - essentials.tpohere
+    - essentials.tppos
+    - essentials.teleport.timer.bypass
+    - essentials.teleport.cooldown.bypass
+    - essentials.tptoggle
+    - essentials.warps.arena
+    - multiverse.*
+    - mvinv.bypass.*
+    - mvinv.bypass.group.*
+    - mvinv.bypass.world.*
+    - vault.admin
+    - worldborder.*
+    - worldedit.*
+    - worldguard.*
+    inheritance:
+    - Mod
+    options:
+      weight: '2'
+      prefix: '&8[&c&lAdmin&8]&7 '
+      default: false
+  Owner:
+    options:
+      default: 'false'
+      build: 'true'
+      weight: '1'
+      prefix: '&4&l[&3&oOwner&4&l]&c '
+      suffix: ''
+    inheritance:
+    - Admin
+    permissions:
+    - -essentials.silentjoin.vanish
+    - essentials.silentjoin
+    - essentials.silentquit
+    - '*'
+    - -essentials.mail
+    - essentials.*
+schema-version: 1
+users:
+  edcde1a4-8c74-4ea2-83c5-c3593da25913:
+    group:
+    - Veteran
+    options:
+      name: pgmonkeyboy
+  6624562a-57eb-4c18-bed4-56b3ff190d6e:
+    group:
+    - Admin
+    options:
+      name: AmerGamerrr
+                                                                        

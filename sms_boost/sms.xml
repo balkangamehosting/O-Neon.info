@@ -1,0 +1,360 @@
+<services_api_response version="2.0">
+<status>
+<code>0</code>
+<message>OK</message>
+</status>
+<service id="91922a0ddc6cb60b8d3ed06169348362">
+<countries>
+<country vat="20.00" code="AL" approved="true" name="Albania">
+<prices>
+<price amount="120.00" vat_included="true" all_operators="true" currency="ALL">
+<message_profile shortcode="54345" all_operators="true" keyword="FOR BBCS">
+<operator billing_type="MO" code="Eagle Mobile" revenue="31.00" default_billing_status="OK" name="Eagle Mobile">
+<codes>
+<code mnc="3" mcc="276"/>
+</codes>
+</operator>
+<operator billing_type="MO" code="Plus" revenue="31.00" default_billing_status="OK" name="Plus">
+<codes>
+<code mnc="04" mcc="276"/>
+</codes>
+</operator>
+<operator billing_type="MO" code="Telekom Albania" revenue="31.00" default_billing_status="OK" name="Telekom Albania">
+<codes>
+<code mnc="1" mcc="276"/>
+</codes>
+</operator>
+<operator billing_type="MT" code="Vodafone" revenue="31.00" default_billing_status="Failed" name="Vodafone">
+<codes>
+<code mnc="2" mcc="276"/>
+<code mnc="02" mcc="276"/>
+</codes>
+</operator>
+</message_profile>
+</price>
+</prices>
+<promotional_text>
+<local>
+Price: 120.00 ALL. Support: +4917570479094 | info@gamehoster.biz Mobile Payment by fortumo.com
+</local>
+</promotional_text>
+</country>
+<country vat="20.00" code="AT" approved="true" name="Austria">
+<prices>
+<price amount="1.10" vat_included="true" all_operators="false" currency="EUR">
+<message_profile double_confirmation_text="JA" shortcode="0900506506" all_operators="false" keyword="TXT BBCS" double_confirmation_shortcode="0900506506">
+<operator billing_type="MT" code="T-Mobile" revenue="0.33" default_billing_status="Failed" name="T-Mobile">
+<codes>
+<code mnc="3" mcc="232"/>
+<code mnc="7" mcc="232"/>
+</codes>
+</operator>
+<operator billing_type="MT" code="Orange" revenue="0.29" default_billing_status="Failed" name="Orange">
+<codes>
+<code mnc="5" mcc="232"/>
+</codes>
+</operator>
+<operator billing_type="MT" code="A1" revenue="0.37" default_billing_status="Failed" name="A1">
+<codes>
+<code mnc="1" mcc="232"/>
+<code mnc="11" mcc="232"/>
+</codes>
+</operator>
+<operator billing_type="MT" code="Drei" revenue="0.28" default_billing_status="Failed" name="Drei">
+<codes>
+<code mnc="10" mcc="232"/>
+</codes>
+</operator>
+</message_profile>
+</price>
+</prices>
+<promotional_text>
+<local>
+Preis: €1,10 Support: +4917570479094 | info@gamehoster.biz Hinweis auf Rücktrittsrecht Powered by fortumo.de
+</local>
+<english>
+Price: €1.10 Support: +4917570479094 | info@gamehoster.biz Withdrawal regulations: https://s.fortumo.com/a Powered by fortumo.com
+</english>
+</promotional_text>
+</country>
+<country vat="17.00" code="BA" approved="true" name="Bosnia and Herzegovina">
+<prices>
+<price amount="2.00" vat_included="false" all_operators="true" currency="BAM">
+<message_profile shortcode="091810700" all_operators="true" keyword="TXT BBCS">
+<operator billing_type="MO" code="BH Mobile" revenue="0.84" default_billing_status="OK" name="BH Mobile">
+<codes>
+<code mnc="90" mcc="218"/>
+</codes>
+</operator>
+<operator billing_type="MO" code="HT-ERONET" revenue="0.84" default_billing_status="OK" name="HT-ERONET">
+<codes>
+<code mnc="3" mcc="218"/>
+</codes>
+</operator>
+<operator billing_type="MT" code="M:tel" revenue="0.84" default_billing_status="Failed" name="M:tel">
+<codes>
+<code mnc="5" mcc="218"/>
+</codes>
+</operator>
+</message_profile>
+</price>
+</prices>
+<promotional_text>
+<local>
+Cena: 2,00 BAM + PDV Podrška: +4917570479094 | info@gamehoster.biz Mobilna Naplata: fortumo.com
+</local>
+<english>
+Price: 2.00 BAM + VAT Support: +4917570479094 | info@gamehoster.biz Mobile Payment by fortumo.com
+</english>
+</promotional_text>
+</country>
+<country vat="21.00" code="CZ" approved="true" name="Czech Republic">
+<prices>
+<price amount="30.00" vat_included="true" all_operators="true" currency="CZK">
+<message_profile shortcode="90309" all_operators="true" keyword="PAY3 BBCS">
+<operator billing_type="MT" code="O2" revenue="9.92" default_billing_status="Failed" name="O2">
+<codes>
+<code mnc="2" mcc="230"/>
+</codes>
+</operator>
+<operator billing_type="MT" code="T-Mobile" revenue="9.92" default_billing_status="Failed" name="T-Mobile">
+<codes>
+<code mnc="1" mcc="230"/>
+</codes>
+</operator>
+<operator billing_type="MT" code="Vodafone" revenue="9.92" default_billing_status="Failed" name="Vodafone">
+<codes>
+<code mnc="3" mcc="230"/>
+<code mnc="99" mcc="230"/>
+</codes>
+</operator>
+</message_profile>
+</price>
+</prices>
+<promotional_text>
+<local>
+Pay by SMS. Price: 30.00 CZK Zákaznická podpora: Infolinka: +420 234 718 513 Provozovatelem SMS služby je SMSden LLC. Doklad ke stažení na www.smsden.com/bill Technicky zajišťuje ComGate Payments a.s. www.platmobilem.cz Služba je dostupná z T-Mobile, Vodafone a O2 Support: +4917570479094 | info@gamehoster.biz Mobile Payment by fortumo.com
+</local>
+</promotional_text>
+</country>
+<country vat="20.00" code="EE" approved="true" name="Estonia">
+<prices>
+<price amount="1.60" vat_included="true" all_operators="true" currency="EUR">
+<message_profile shortcode="13013" all_operators="true" keyword="CHAT BBCS">
+<operator billing_type="MO" code="Elisa" revenue="0.67" default_billing_status="OK" name="Elisa">
+<codes>
+<code mnc="02" mcc="248"/>
+</codes>
+</operator>
+<operator billing_type="MO" code="Tele2" revenue="0.67" default_billing_status="OK" name="Tele2">
+<codes>
+<code mnc="03" mcc="248"/>
+<code mnc="06" mcc="248"/>
+</codes>
+</operator>
+<operator billing_type="MO" code="Telia" revenue="0.67" default_billing_status="OK" name="Telia">
+<codes>
+<code mnc="01" mcc="248"/>
+</codes>
+</operator>
+</message_profile>
+</price>
+</prices>
+<promotional_text>
+<local>
+Hind: €1.60 Klienditugi: +4917570479094 | info@gamehoster.biz SMS-ühendus: fortumo.ee
+</local>
+<english>
+Price: €1.60 Support: +4917570479094 | info@gamehoster.biz Mobile Payment by fortumo.com
+</english>
+</promotional_text>
+</country>
+<country vat="19.00" code="DE" approved="true" name="Germany">
+<prices>
+<price amount="0.99" vat_included="true" all_operators="true" currency="EUR">
+<message_profile shortcode="89000" all_operators="true" keyword="FOR BBCS">
+<operator billing_type="MO" code="Vodafone" revenue="0.42" default_billing_status="OK" name="Vodafone">
+<codes>
+<code mnc="2" mcc="262"/>
+<code mnc="4" mcc="262"/>
+<code mnc="9" mcc="262"/>
+<code mnc="42" mcc="262"/>
+</codes>
+</operator>
+<operator billing_type="MO" code="T-Mobile" revenue="0.42" default_billing_status="OK" name="T-Mobile">
+<codes>
+<code mnc="1" mcc="262"/>
+<code mnc="6" mcc="262"/>
+</codes>
+</operator>
+<operator billing_type="MO" code="O2" revenue="0.44" default_billing_status="OK" name="O2">
+<codes>
+<code mnc="7" mcc="262"/>
+<code mnc="8" mcc="262"/>
+<code mnc="11" mcc="262"/>
+<code mnc="12" mcc="262"/>
+<code mnc="5" mcc="262"/>
+<code mnc="77" mcc="262"/>
+<code mnc="3" mcc="262"/>
+</codes>
+</operator>
+<operator billing_type="MO" code="Mobilcom-Debitel" revenue="0.42" default_billing_status="OK" name="Mobilcom-Debitel">
+<codes>
+<code mnc="901" mcc="262"/>
+<code mnc="13" mcc="262"/>
+</codes>
+</operator>
+</message_profile>
+</price>
+</prices>
+<promotional_text>
+<local>
+Preis: €0,99 Support: +4917570479094 | info@gamehoster.biz Powered by fortumo.de
+</local>
+<english>
+Price: €0.99 Support: +4917570479094 | info@gamehoster.biz Mobile Payment by fortumo.com
+</english>
+</promotional_text>
+</country>
+<country vat="18.00" code="KV" approved="true" name="Kosovo">
+<prices>
+<price amount="1.00" vat_included="true" all_operators="true" currency="EUR">
+<message_profile shortcode="55050" all_operators="true" keyword="FOR BBCS">
+<operator billing_type="MO" code="IPKO" revenue="0.34" default_billing_status="OK" name="IPKO"></operator>
+<operator billing_type="MO" code="Vala" revenue="0.34" default_billing_status="OK" name="Vala">
+<codes>
+<code mnc="1" mcc="212"/>
+</codes>
+</operator>
+</message_profile>
+</price>
+</prices>
+<promotional_text>
+<local>
+Price: €1.00. Support: +4917570479094 | info@gamehoster.biz Mobile Payment by fortumo.com
+</local>
+</promotional_text>
+</country>
+<country vat="18.00" code="MK" approved="true" name="Macedonia">
+<prices>
+<price amount="59.00" vat_included="true" all_operators="true" currency="MKD">
+<message_profile shortcode="141551" all_operators="true" keyword="TAP BBCS">
+<operator billing_type="MO" code="Makedonski Telekom" revenue="19.00" default_billing_status="OK" name="Makedonski Telekom">
+<codes>
+<code mnc="1" mcc="294"/>
+</codes>
+</operator>
+<operator billing_type="MO" code="One" revenue="19.00" default_billing_status="OK" name="One">
+<codes>
+<code mnc="2" mcc="294"/>
+</codes>
+</operator>
+<operator billing_type="MO" code="one.Vipnet" revenue="19.00" default_billing_status="OK" name="one.Vipnet">
+<codes>
+<code mnc="3" mcc="294"/>
+</codes>
+</operator>
+</message_profile>
+</price>
+</prices>
+<promotional_text>
+<local>
+Цена: 59,00 MKD Подршка: +4917570479094 | info@gamehoster.biz Мобилно плаќање нa fortumo.com
+</local>
+<english>
+Price: 59.00 MKD, excluding taxes and charges. Support: +4917570479094 | info@gamehoster.biz Mobile Payment by fortumo.com
+</english>
+</promotional_text>
+</country>
+<country vat="19.00" code="ME" approved="true" name="Montenegro">
+<prices>
+<price amount="1.02" vat_included="true" all_operators="true" currency="EUR">
+<message_profile shortcode="14741" all_operators="true" keyword="FOR BBCS">
+<operator billing_type="MO" code="m:tel" revenue="0.45" default_billing_status="OK" name="m:tel">
+<codes>
+<code mnc="3" mcc="297"/>
+</codes>
+</operator>
+<operator billing_type="MO" code="Telenor" revenue="0.45" default_billing_status="OK" name="Telenor">
+<codes>
+<code mnc="1" mcc="297"/>
+</codes>
+</operator>
+<operator billing_type="MO" code="Crnogorski Telekom" revenue="0.39" default_billing_status="OK" name="Crnogorski Telekom">
+<codes>
+<code mnc="2" mcc="297"/>
+<code mnc="4" mcc="297"/>
+</codes>
+</operator>
+</message_profile>
+</price>
+</prices>
+<promotional_text>
+<local>
+Price: €1.02 Support: +4917570479094 | info@gamehoster.biz Mobile Payment by fortumo.com
+</local>
+</promotional_text>
+</country>
+<country vat="22.00" code="SI" approved="true" name="Slovenia">
+<prices>
+<price amount="0.99" vat_included="true" all_operators="true" currency="EUR">
+<message_profile shortcode="3838" all_operators="true" keyword="TXT BBCS">
+<operator billing_type="MT" code="Si.mobil" revenue="0.28" default_billing_status="Failed" name="Si.mobil">
+<codes>
+<code mnc="40" mcc="293"/>
+</codes>
+</operator>
+<operator billing_type="MT" code="Telekom Slovenije" revenue="0.28" default_billing_status="Failed" name="Telekom Slovenije">
+<codes>
+<code mnc="41" mcc="293"/>
+</codes>
+</operator>
+<operator billing_type="MT" code="Telemach" revenue="0.28" default_billing_status="Failed" name="Telemach">
+<codes>
+<code mnc="70" mcc="293"/>
+</codes>
+</operator>
+</message_profile>
+</price>
+</prices>
+<promotional_text>
+<local>
+Cena: €0,99 Podpora: +4917570479094 | info@gamehoster.biz Mobile Plačilo z fortumo.com
+</local>
+<english>
+Price: €0.99 Support: +4917570479094 | info@gamehoster.biz Mobile Payment by fortumo.com
+</english>
+</promotional_text>
+</country>
+<country vat="8.00" code="CH" approved="true" name="Switzerland">
+<prices>
+<price amount="2.00" vat_included="true" all_operators="true" currency="CHF">
+<message_profile shortcode="565" all_operators="true" keyword="DAG BBCS">
+<operator billing_type="MT" code="Salt" revenue="0.78" default_billing_status="Failed" name="Salt">
+<codes>
+<code mnc="3" mcc="228"/>
+</codes>
+</operator>
+<operator billing_type="MT" code="Sunrise" revenue="0.89" default_billing_status="Failed" name="Sunrise">
+<codes>
+<code mnc="2" mcc="228"/>
+<code mnc="12" mcc="228"/>
+</codes>
+</operator>
+<operator billing_type="MT" code="Swisscom" revenue="1.07" default_billing_status="Failed" name="Swisscom">
+<codes>
+<code mnc="1" mcc="228"/>
+</codes>
+</operator>
+</message_profile>
+</price>
+</prices>
+<promotional_text>
+<local>
+Price: 2.00 CHF Support: +4917570479094 | info@gamehoster.biz Mobile Payment by fortumo.ch
+</local>
+</promotional_text>
+</country>
+</countries>
+</service>
+</services_api_response>

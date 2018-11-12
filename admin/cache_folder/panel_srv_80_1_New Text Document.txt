@@ -1,0 +1,361 @@
+new Text:Textdraw0;
+new Text:Textdraw1;
+new Text:Textdraw2;
+new Text:Textdraw3;
+new Text:Textdraw4;
+new Text:Textdraw5;
+new Text:Textdraw6;
+new Text:Textdraw7;
+new Text:Textdraw8;
+new Text:Textdraw9;
+new Text:Textdraw10;
+new Text:Textdraw11;
+new Text:Textdraw12;
+new Text:Textdraw13;
+new Text:Textdraw14;
+new Text:Textdraw15;
+new Text:Textdraw16;
+new Text:Textdraw17;
+new Text:Textdraw18;
+new Text:Textdraw19;
+new Text:Textdraw20;
+new Text:Textdraw21;
+new Text:Textdraw22;
+new Text:Textdraw23;
+new Text:Textdraw24;
+new Text:Textdraw25;
+new Text:Textdraw26;
+new Text:Textdraw27;
+new Text:Textdraw28;
+new Text:Textdraw29;
+new Text:Textdraw30;
+new Text:Textdraw31;
+new Text:Textdraw32;
+/////////TEXTDRAW ZA SAN UNION BY PREDRAG//////////////////////////////
+/////////TEXTDRAW ZA SAN UNION BY PREDRAG//////////////////////////////
+/////////TEXTDRAW ZA SAN UNION BY PREDRAG//////////////////////////////
+Textdraw0 = TextDrawCreate(40.000007, 433.066650, "LD_SPAC:white");
+TextDrawLetterSize(Textdraw0, 0.000000, 0.000000);
+TextDrawTextSize(Textdraw0, 572.000000, 14.186669);
+TextDrawAlignment(Textdraw0, 1);
+TextDrawColor(Textdraw0, 255);
+TextDrawSetShadow(Textdraw0, 0);
+TextDrawSetOutline(Textdraw0, 0);
+TextDrawFont(Textdraw0, 4);
+
+Textdraw1 = TextDrawCreate(36.799995, 434.560058, "LD_SPAC:white");
+TextDrawLetterSize(Textdraw1, 0.000000, 0.000000);
+TextDrawTextSize(Textdraw1, 572.000061, -1.493347);
+TextDrawAlignment(Textdraw1, 1);
+TextDrawColor(Textdraw1, 795922632);
+TextDrawSetShadow(Textdraw1, 0);
+TextDrawSetOutline(Textdraw1, 0);
+TextDrawFont(Textdraw1, 4);
+
+Textdraw2 = TextDrawCreate(35.399993, 445.760131, "LD_SPAC:white");
+TextDrawLetterSize(Textdraw2, 0.000000, 0.000000);
+TextDrawTextSize(Textdraw2, 572.000000, 1.493347);
+TextDrawAlignment(Textdraw2, 1);
+TextDrawColor(Textdraw2, 795922632);
+TextDrawSetShadow(Textdraw2, 0);
+TextDrawSetOutline(Textdraw2, 0);
+TextDrawFont(Textdraw2, 4);
+
+Textdraw3 = TextDrawCreate(607.200256, 432.319976, "LD_Pool:ball");
+TextDrawLetterSize(Textdraw3, 0.449999, 1.600000);
+TextDrawTextSize(Textdraw3, 11.199997, 14.186667);
+TextDrawAlignment(Textdraw3, 1);
+TextDrawColor(Textdraw3, 255);
+TextDrawSetShadow(Textdraw3, 0);
+TextDrawSetOutline(Textdraw3, 1);
+TextDrawBackgroundColor(Textdraw3, 51);
+TextDrawFont(Textdraw3, 4);
+TextDrawSetProportional(Textdraw3, 1);
+
+Textdraw4 = TextDrawCreate(31.999992, 432.320007, "LD_Pool:ball");
+TextDrawLetterSize(Textdraw4, 0.449999, 1.600000);
+TextDrawTextSize(Textdraw4, 11.999999, 14.186669);
+TextDrawAlignment(Textdraw4, 1);
+TextDrawColor(Textdraw4, 255);
+TextDrawUseBox(Textdraw4, true);
+TextDrawBoxColor(Textdraw4, 0);
+TextDrawSetShadow(Textdraw4, 0);
+TextDrawSetOutline(Textdraw4, 1);
+TextDrawBackgroundColor(Textdraw4, 51);
+TextDrawFont(Textdraw4, 4);
+TextDrawSetProportional(Textdraw4, 1);
+
+Textdraw5 = TextDrawCreate(612.800048, 428.586761, ")");
+TextDrawLetterSize(Textdraw5, 0.558000, 1.913600);
+TextDrawAlignment(Textdraw5, 1);
+TextDrawColor(Textdraw5, 795922632);
+TextDrawSetShadow(Textdraw5, 0);
+TextDrawSetOutline(Textdraw5, 0);
+TextDrawBackgroundColor(Textdraw5, 51);
+TextDrawFont(Textdraw5, 1);
+TextDrawSetProportional(Textdraw5, 1);
+
+Textdraw6 = TextDrawCreate(30.399980, 429.333343, "(");
+TextDrawLetterSize(Textdraw6, 0.549200, 1.838933);
+TextDrawAlignment(Textdraw6, 1);
+TextDrawColor(Textdraw6, 795922632);
+TextDrawSetShadow(Textdraw6, 0);
+TextDrawSetOutline(Textdraw6, 0);
+TextDrawBackgroundColor(Textdraw6, 51);
+TextDrawFont(Textdraw6, 1);
+TextDrawSetProportional(Textdraw6, 1);
+
+Textdraw7 = TextDrawCreate(607.200012, 433.066680, "LD_SPAC:white");
+TextDrawLetterSize(Textdraw7, 0.000000, 0.000000);
+TextDrawTextSize(Textdraw7, 8.000000, 1.493347);
+TextDrawAlignment(Textdraw7, 1);
+TextDrawColor(Textdraw7, 795922632);
+TextDrawSetShadow(Textdraw7, 0);
+TextDrawSetOutline(Textdraw7, 0);
+TextDrawFont(Textdraw7, 4);
+
+Textdraw8 = TextDrawCreate(603.200012, 447.253356, "LD_SPAC:white");
+TextDrawLetterSize(Textdraw8, 0.000000, 0.000000);
+TextDrawTextSize(Textdraw8, 12.000012, -1.493356);
+TextDrawAlignment(Textdraw8, 1);
+TextDrawColor(Textdraw8, 795922632);
+TextDrawSetShadow(Textdraw8, 0);
+TextDrawSetOutline(Textdraw8, 0);
+TextDrawFont(Textdraw8, 4);
+
+Textdraw9 = TextDrawCreate(34.399997, 445.760040, "LD_SPAC:white");
+TextDrawLetterSize(Textdraw9, 0.000000, 0.000000);
+TextDrawTextSize(Textdraw9, 15.200004, 1.493316);
+TextDrawAlignment(Textdraw9, 1);
+TextDrawColor(Textdraw9, 795922632);
+TextDrawSetShadow(Textdraw9, 0);
+TextDrawSetOutline(Textdraw9, 0);
+TextDrawFont(Textdraw9, 4);
+
+Textdraw10 = TextDrawCreate(35.200000, 433.066650, "LD_SPAC:white");
+TextDrawLetterSize(Textdraw10, 0.000000, 0.000000);
+TextDrawTextSize(Textdraw10, 12.000000, 1.493347);
+TextDrawAlignment(Textdraw10, 1);
+TextDrawColor(Textdraw10, 795922632);
+TextDrawSetShadow(Textdraw10, 0);
+TextDrawSetOutline(Textdraw10, 0);
+TextDrawFont(Textdraw10, 4);
+
+Textdraw11 = TextDrawCreate(180.800018, 421.120117, "LD_SPAC:white");
+TextDrawLetterSize(Textdraw11, 0.000000, 0.000000);
+TextDrawTextSize(Textdraw11, 296.000000, 11.946661);
+TextDrawAlignment(Textdraw11, 1);
+TextDrawColor(Textdraw11, 255);
+TextDrawSetShadow(Textdraw11, 0);
+TextDrawSetOutline(Textdraw11, 0);
+TextDrawFont(Textdraw11, 4);
+
+Textdraw12 = TextDrawCreate(181.799987, 420.991668, "LD_SPAC:white");
+TextDrawLetterSize(Textdraw12, 0.000000, 0.000000);
+TextDrawTextSize(Textdraw12, 293.599975, 1.493323);
+TextDrawAlignment(Textdraw12, 1);
+TextDrawColor(Textdraw12, 795922632);
+TextDrawSetShadow(Textdraw12, 0);
+TextDrawSetOutline(Textdraw12, 0);
+TextDrawFont(Textdraw12, 4);
+
+Textdraw13 = TextDrawCreate(479.999969, 417.386749, "/");
+TextDrawLetterSize(Textdraw13, -0.392400, 1.629866);
+TextDrawAlignment(Textdraw13, 1);
+TextDrawColor(Textdraw13, 795922632);
+TextDrawSetShadow(Textdraw13, 0);
+TextDrawSetOutline(Textdraw13, 0);
+TextDrawBackgroundColor(Textdraw13, 51);
+TextDrawFont(Textdraw13, 1);
+TextDrawSetProportional(Textdraw13, 1);
+
+Textdraw14 = TextDrawCreate(472.800018, 427.093322, "LD_SPAC:white");
+TextDrawLetterSize(Textdraw14, 0.000000, 0.000000);
+TextDrawTextSize(Textdraw14, 4.799987, 5.973327);
+TextDrawAlignment(Textdraw14, 1);
+TextDrawColor(Textdraw14, 255);
+TextDrawSetShadow(Textdraw14, 0);
+TextDrawSetOutline(Textdraw14, 0);
+TextDrawFont(Textdraw14, 4);
+
+Textdraw15 = TextDrawCreate(175.999984, 417.386657, "/");
+TextDrawLetterSize(Textdraw15, 0.451600, 1.749333);
+TextDrawAlignment(Textdraw15, 1);
+TextDrawColor(Textdraw15, 795922632);
+TextDrawSetShadow(Textdraw15, 0);
+TextDrawSetOutline(Textdraw15, 0);
+TextDrawBackgroundColor(Textdraw15, 51);
+TextDrawFont(Textdraw15, 1);
+TextDrawSetProportional(Textdraw15, 1);
+
+Textdraw16 = TextDrawCreate(180.000000, 427.839965, "LD_SPAC:white");
+TextDrawLetterSize(Textdraw16, 0.000000, 0.000000);
+TextDrawTextSize(Textdraw16, 3.999984, 5.226684);
+TextDrawAlignment(Textdraw16, 1);
+TextDrawColor(Textdraw16, 255);
+TextDrawSetShadow(Textdraw16, 0);
+TextDrawSetOutline(Textdraw16, 0);
+TextDrawFont(Textdraw16, 4);
+
+Textdraw17 = TextDrawCreate(180.800003, 422.613342, "LD_SPAC:white");
+TextDrawLetterSize(Textdraw17, 0.000000, 0.000000);
+TextDrawTextSize(Textdraw17, 8.799987, -1.493347);
+TextDrawAlignment(Textdraw17, 1);
+TextDrawColor(Textdraw17, 795922632);
+TextDrawSetShadow(Textdraw17, 0);
+TextDrawSetOutline(Textdraw17, 0);
+TextDrawFont(Textdraw17, 4);
+
+Textdraw18 = TextDrawCreate(460.799926, 421.119964, "LD_SPAC:white");
+TextDrawLetterSize(Textdraw18, 0.000000, 0.000000);
+TextDrawTextSize(Textdraw18, 16.799970, 1.493344);
+TextDrawAlignment(Textdraw18, 1);
+TextDrawColor(Textdraw18, 795922632);
+TextDrawSetShadow(Textdraw18, 0);
+TextDrawSetOutline(Textdraw18, 0);
+TextDrawFont(Textdraw18, 4);
+
+Textdraw19 = TextDrawCreate(179.199996, 433.066650, "LD_SPAC:white");
+TextDrawLetterSize(Textdraw19, 0.000000, 0.000000);
+TextDrawTextSize(Textdraw19, -1.599990, 13.440036);
+TextDrawAlignment(Textdraw19, 1);
+TextDrawColor(Textdraw19, 795922632);
+TextDrawSetShadow(Textdraw19, 0);
+TextDrawSetOutline(Textdraw19, 0);
+TextDrawFont(Textdraw19, 4);
+
+Textdraw20 = TextDrawCreate(477.599975, 433.066650, "LD_SPAC:white");
+TextDrawLetterSize(Textdraw20, 0.000000, 0.000000);
+TextDrawTextSize(Textdraw20, 1.600006, 12.693359);
+TextDrawAlignment(Textdraw20, 1);
+TextDrawColor(Textdraw20, 795922632);
+TextDrawSetShadow(Textdraw20, 0);
+TextDrawSetOutline(Textdraw20, 0);
+TextDrawFont(Textdraw20, 4);
+
+Textdraw21 = TextDrawCreate(209.599945, 423.360076, "LD_CHAT:badchat");
+TextDrawLetterSize(Textdraw21, 0.449999, 1.600000);
+TextDrawTextSize(Textdraw21, -8.799999, 7.466667);
+TextDrawAlignment(Textdraw21, 1);
+TextDrawColor(Textdraw21, -1);
+TextDrawSetShadow(Textdraw21, 0);
+TextDrawSetOutline(Textdraw21, 1);
+TextDrawBackgroundColor(Textdraw21, 51);
+TextDrawFont(Textdraw21, 4);
+TextDrawSetProportional(Textdraw21, 1);
+
+Textdraw22 = TextDrawCreate(242.399932, 422.613311, "Ako vam je potrebna pomoc zatrazite je na /pitaj");
+TextDrawLetterSize(Textdraw22, 0.145499, 0.878824);
+TextDrawAlignment(Textdraw22, 1);
+TextDrawColor(Textdraw22, -1);
+TextDrawSetShadow(Textdraw22, 0);
+TextDrawSetOutline(Textdraw22, 0);
+TextDrawBackgroundColor(Textdraw22, 1573909469);
+TextDrawFont(Textdraw22, 2);
+TextDrawSetProportional(Textdraw22, 1);
+
+Textdraw23 = TextDrawCreate(183.200042, 427.840179, "LD_SPAC:white");
+TextDrawLetterSize(Textdraw23, 0.036000, 0.022399);
+TextDrawTextSize(Textdraw23, 18.399995, 24.639986);
+TextDrawAlignment(Textdraw23, 1);
+TextDrawColor(Textdraw23, -1);
+TextDrawUseBox(Textdraw23, true);
+TextDrawBoxColor(Textdraw23, 0);
+TextDrawSetShadow(Textdraw23, 0);
+TextDrawSetOutline(Textdraw23, 0);
+TextDrawFont(Textdraw23, 5);
+TextDrawSetPreviewModel(Textdraw23, 1212);
+TextDrawSetPreviewRot(Textdraw23, 0.000000, 0.000000, 0.000000, 1.000000);
+
+Textdraw24 = TextDrawCreate(200.799957, 435.306671, ": 2000$");
+TextDrawLetterSize(Textdraw24, 0.158800, 0.875733);
+TextDrawAlignment(Textdraw24, 1);
+TextDrawColor(Textdraw24, -1);
+TextDrawSetShadow(Textdraw24, 0);
+TextDrawSetOutline(Textdraw24, 0);
+TextDrawBackgroundColor(Textdraw24, 51);
+TextDrawFont(Textdraw24, 2);
+TextDrawSetProportional(Textdraw24, 1);
+
+Textdraw25 = TextDrawCreate(261.599700, 421.119934, "LD_SPAC:white");
+TextDrawLetterSize(Textdraw25, 0.012799, 0.052266);
+TextDrawTextSize(Textdraw25, 20.000000, 37.333324);
+TextDrawAlignment(Textdraw25, 1);
+TextDrawColor(Textdraw25, -1);
+TextDrawUseBox(Textdraw25, true);
+TextDrawBoxColor(Textdraw25, 0);
+TextDrawSetShadow(Textdraw25, 0);
+TextDrawSetOutline(Textdraw25, 0);
+TextDrawFont(Textdraw25, 5);
+TextDrawSetPreviewModel(Textdraw25, 19941);
+TextDrawSetPreviewRot(Textdraw25, 0.000000, 0.000000, 0.000000, 1.000000);
+
+Textdraw26 = TextDrawCreate(281.599914, 436.053588, ": 0g");
+TextDrawLetterSize(Textdraw26, 0.166000, 0.748799);
+TextDrawAlignment(Textdraw26, 1);
+TextDrawColor(Textdraw26, -1);
+TextDrawSetShadow(Textdraw26, 0);
+TextDrawSetOutline(Textdraw26, 0);
+TextDrawBackgroundColor(Textdraw26, 51);
+TextDrawFont(Textdraw26, 2);
+TextDrawSetProportional(Textdraw26, 1);
+
+Textdraw27 = TextDrawCreate(312.000000, 433.066650, "LD_SPAC:white");
+TextDrawLetterSize(Textdraw27, 0.000000, 0.000000);
+TextDrawTextSize(Textdraw27, 1.600006, 12.693359);
+TextDrawAlignment(Textdraw27, 1);
+TextDrawColor(Textdraw27, 795922632);
+TextDrawSetShadow(Textdraw27, 0);
+TextDrawSetOutline(Textdraw27, 0);
+TextDrawFont(Textdraw27, 4);
+
+Textdraw28 = TextDrawCreate(46.399997, 435.306701, "PREDRAG_DAVIDOVIC");
+TextDrawLetterSize(Textdraw28, 0.151600, 0.905599);
+TextDrawAlignment(Textdraw28, 1);
+TextDrawColor(Textdraw28, -1);
+TextDrawSetShadow(Textdraw28, 0);
+TextDrawSetOutline(Textdraw28, 1);
+TextDrawBackgroundColor(Textdraw28, 51);
+TextDrawFont(Textdraw28, 2);
+TextDrawSetProportional(Textdraw28, 1);
+
+Textdraw29 = TextDrawCreate(324.000061, 435.306701, "ld_grav:timer");
+TextDrawLetterSize(Textdraw29, 0.449999, 1.600000);
+TextDrawTextSize(Textdraw29, 11.200000, 9.706667);
+TextDrawAlignment(Textdraw29, 1);
+TextDrawColor(Textdraw29, -1);
+TextDrawSetShadow(Textdraw29, 0);
+TextDrawSetOutline(Textdraw29, 1);
+TextDrawBackgroundColor(Textdraw29, 51);
+TextDrawFont(Textdraw29, 4);
+TextDrawSetProportional(Textdraw29, 1);
+
+Textdraw30 = TextDrawCreate(345.600036, 435.306762, "22:23:14");
+TextDrawLetterSize(Textdraw30, 0.150000, 0.905599);
+TextDrawAlignment(Textdraw30, 1);
+TextDrawColor(Textdraw30, -1);
+TextDrawSetShadow(Textdraw30, 0);
+TextDrawSetOutline(Textdraw30, 1);
+TextDrawBackgroundColor(Textdraw30, 51);
+TextDrawFont(Textdraw30, 2);
+TextDrawSetProportional(Textdraw30, 1);
+
+Textdraw31 = TextDrawCreate(387.200103, 436.053375, "30/07/2017");
+TextDrawLetterSize(Textdraw31, 0.153200, 0.823466);
+TextDrawAlignment(Textdraw31, 1);
+TextDrawColor(Textdraw31, -1);
+TextDrawSetShadow(Textdraw31, 0);
+TextDrawSetOutline(Textdraw31, 1);
+TextDrawBackgroundColor(Textdraw31, 51);
+TextDrawFont(Textdraw31, 2);
+TextDrawSetProportional(Textdraw31, 1);
+
+Textdraw32 = TextDrawCreate(513.599792, 436.053497, "ONLINE:25 REKORD:102");
+TextDrawLetterSize(Textdraw32, 0.141200, 0.778666);
+TextDrawAlignment(Textdraw32, 1);
+TextDrawColor(Textdraw32, -1);
+TextDrawSetShadow(Textdraw32, 0);
+TextDrawSetOutline(Textdraw32, 1);
+TextDrawBackgroundColor(Textdraw32, 51);
+TextDrawFont(Textdraw32, 2);
+TextDrawSetProportional(Textdraw32, 1);

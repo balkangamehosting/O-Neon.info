@@ -1,0 +1,38 @@
+RewriteEngine on
+
+RewriteRule ^home$							"index.php"
+
+#Trenutno
+
+RewriteRule ^kontakt$						"email_support.php"
+
+RewriteRule ^naruci$						"page.php?page=naruci"
+RewriteRule ^naruci/(.*)$					"page.php?page=naruci&game=$1"
+
+RewriteRule ^info$							"page.php?page=info"
+RewriteRule ^info/(.*)$						"page.php?page=info&info=$1"
+
+#image folder
+
+RewriteRule ^img/$                          "/error.php"
+
+#ostalo
+
+RewriteRule ^css/$                			"/error.php"
+RewriteRule ^js/$                			"/error.php"
+RewriteRule ^SQL/$                			"/error.php"
+RewriteRule ^fonts/$                		"/error.php"
+
+RewriteRule ^plugin_amxx/$                	"/error.php"
+
+RewriteRule ^connect_db.php$                "/error.php"
+
+#ERROR PAGES
+
+ErrorDocument 404 /error.php
+
+
+<Files 403.shtml>
+	order allow,deny
+	allow from all
+</Files>

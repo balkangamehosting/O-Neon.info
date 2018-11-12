@@ -1,0 +1,275 @@
+[en]
+ML_MARINE			=	Marine
+ML_HEAD_SHOOTER			=	Head Shooter
+ML_KAMIKAZE			=	Kamikaze
+ML_SWAT				=	S.W.A.T
+ML_PRICE			=	Price
+ML_SANDMAN			=	Sandman
+ML_PRO_SHOOTER			=	Pro-Shooter
+ML_ATTACKER			=	Attacker
+ML_PRO_MINER			=	Pro Miner
+ML_SOLDIER			=	Solider
+ML_JSO				=	JSO
+ML_OPS				=	OPS
+ML_RAMBO			=	Rambo
+ML_GUNNER			=	Gunner
+ML_FIRE_SUPPORT			=	Fire Support
+ML_SNIPERMAN			=	Sniperman
+ML_CRYSIS			=	Crysis
+ML_PARTISAN			=	Partisan
+ML_PHANTOM			=	Phantom
+ML_IRONMAN			=	Iron Man
+	
+ML_FROKI			=	Froki
+ML_ADRENALINE			=	Adrenaline
+	
+ML_CADET			=	Cadet
+ML_GENERAL			=	General
+ML_ASSASSIN			=	Assassin
+ML_HITLER			=	Hitler
+ML_SERGEANT_MAJOR		=	Sergeant Major	
+ML_VOJSKOVODJA			=	General II
+ML_OFFICER			=	Officer
+ML_ADMIRAL			=	Admiral
+ML_VASILI_ZAITSEV		=	Vaili Zaitsev
+ML_JOHN_WAYANE			=	John Wayane
+ML_PRO_SWAT			=	Pro S.W.A.T
+ML_SAMI				=	Sami
+	
+ML_PRIEST			=	Priest
+ML_HITMAN			=	Hitman
+ML_INDIAN			=	Indian
+ML_HELL_BOY			=	Hell Boy
+ML_SIMKE			=	Simke
+ML_MAD_MAX			=	Mad Max
+ML_DESTROYER			=	Destroyer
+ML_NINJA			=	Ninja
+ML_ROCKER			=	Rocker
+	
+ML_GHOST			=	Ghost
+ML_GLACIER			=	Glacier
+ML_SHREDDER			=	Shredder
+ML_PREDATOR			=	Predator
+ML_WOLVERINE			=	Wolverine
+ML_PRO_ASSASSIN			=	Pro Assassin
+ML_FRANKESTEIN			=	Frankestein
+	
+ML_TALIBAN			=	Taliban
+ML_JUMPER			=	Jumper
+ML_SAMURAI			=	Samurai
+ML_WARIOR			=	Warior
+
+ML_D_MARINE			=	Has instant kill with knife.
+ML_D_HEAD_SHOOTER		=	Has 1/6 chances to shoot enemy to the head.
+ML_D_KAMIKAZE			=	Explodes on death and has ability to see invisible players (X-Ray).
+ML_D_SWAT			=	Has resistance to knife.
+ML_D_PRICE			=	Has 1/3 chances for instant kill with USP.
+ML_D_SANDMAN			=	Nas No Recoil.
+ML_D_PRO_SHOOTER		=	Has 1/3 chances for instant kill with AWP and has 3 rockets.
+ML_D_ATTACKER			=	Has 3 dynamites.
+ML_D_PRO_MINER			=	Has 5 mines.
+ML_D_SOLDIER			=	Has 1 rocket and resistance to first 3 bullets per round.
+ML_D_JSO			=	Has No Recoil.
+ML_D_OPS			=	Has 1/3 chances for instant kill with Deagle.
+ML_D_RAMBO			=	Invisible while crouching and holding a knife.
+ML_D_GUNNER			=	Has 1 rocket, resistance to Head Shots and has No Recoil.
+ML_D_FIRE_SUPPORT		=	Has 3 rockets and looks like a enemy.
+ML_D_SNIPERMAN			=	Has 1/2 chances for instant kill with AWP.
+ML_D_CRYSIS			=	Has 3 rockets.
+ML_D_PARTISAN			=	Has 1 mine.
+ML_D_PHANTOM			=	Invisible while holding a knife, has ability to climb up the walls (Button E).^nHas custom knife skin.
+ML_D_IRONMAN			=	Has 1/10 chances for instant kill with AUG and has 1/6 chances to blind a enemy.
+	
+ML_D_FROKI			=	Has instant kill with AWP, silent waling and 2 rockets.
+ML_D_ADRENALINE			=	Has 1/2 chances for instant kill with Deagle and has invisiblity while crouching.
+	
+ML_D_CADET			=	Has 1/3 chances for instant kill with USP and resistance to Explosions, mines, rockets, knife, dynamites ...
+ML_D_GENERAL			=	Has 1/5 chances for instant kill with Famas and 1/4 with glock.
+ML_D_ASSASSIN			=	Has instant kill with knife (Right Click), has 1/3 chances for instant kill with Deagle.^nHas invisibility while holding a knife and can not bee seen by X-Ray.
+ML_D_HITLER			=	Has 1/8 chances for instant kill with AK-47 and 3 mines.
+ML_D_SERGEANT_MAJOR		=	Has 1/7 chances for instant kill with AK-47 and XM1014 and 3 mines.
+ML_D_VOJSKOVODJA		=	Has 1/5 chances for instant kill with UMP-45 and 5 rockets.
+ML_D_OFFICER			=	Has 1/6 chances for instant kill with TMP and invisibility while crouching.
+ML_D_ADMIRAL			=	Has +8% damage on all weapons and 5 dynamites.
+ML_D_VASILI_ZAITSEV		=	Has instant kill with AWP and resistance to first 3 bullets per round.
+ML_D_JOHN_WAYANE		=	Has 1/6 chances for instant kill with Dual Elites and has ability to see invisible players (X-Ray).
+ML_D_PRO_SWAT			=	Has 1/5 chances for instant kill with M4A1 and resistance to Explosions, mines, rockets, knife, dynamites ...
+ML_D_SAMI			=	Has 1/8 chances for instanz kill with M4A1 and invisibility while crouching.^nrCLASS MADE ONLY FOR SAMI!!!!
+
+ML_D_PRIEST			=	Has 1/7 chances for instant kill with MP5 and 1/4 with USP.^nHas ability to revive dead comrades.^nHas 1/6 chances to make opponent drop his weapon.
+ML_D_HITMAN			=	Has 1/6 chances for instant kill with all weapons that can pickup from the ground, and 1/3 with USP.^nHas custom USP model.
+ML_D_INDIAN			=	Has instant kill with Bow, silent waling and ability to see invisible players (X-Ray). 
+ML_D_HELL_BOY			=	Can only be damaged by shooting at his head and has 2 rockets.
+ML_D_SIMKE			=	Has 1/4 chances for instant kill with USP and 1/5 with Dual Elites, has 1 rocket and 2 dynamites.^nShoots only in head with Deagle.
+ML_D_MAD_MAX			=	Has 1/4 chances for instant kill with USP and Jet Pack.
+ML_D_DESTROYER			=	Has 1/10 chances for instant kill with AK-47 and 1/6 with USP and has 10 dynamites.^nHas invisibility while crouching.
+ML_D_NINJA			=	Has instant kill with Katana, invisibility while holding a katana, silently walking.^nHas ability to climb up the walls (Button E) and lower gravity.
+ML_D_ROCKER			=	Has 1/6 chances for instant kill with Guitar, No Recoil, Can kick enemy by pressing button E.^nCan instant kill enemy by kicking him.
+	
+ML_D_GHOST			=	Has instant kill with AWP and knife, and has invisibility while holding a knife.
+ML_D_GLACIER			=	Has unlimited clip,  1/8 chances for instant kill with AK-47 and M4A1 and No Recoil.
+ML_D_SHREDDER			=	Has 1/10 with AK-47 and silently walking.
+ML_D_PREDATOR			=	Has instant kill with Sout, has 1/10 chances for instant kill with XM1014.^nHas predator player model and custom scout model.
+ML_D_WOLVERINE			=	Has Claws, when activates them with press of button E he has greather speed and lower gravity.^nHas resistance to HS and invisibility while holding a Claws or Hands.
+ML_D_PRO_ASSASSIN		=	Has instant kill with knife (Right Click) and full invisibility.
+ML_D_FRANKESTEIN		=	Has No-Clip for 15 secounds (To activate it press button rEy).^nHas instant kill and invisibility with knife.
+	
+ML_D_TALIBAN			=	Has 2 rockets.
+ML_D_JUMPER			=	Has Jet Pack and 4 jumps.
+ML_D_SAMURAI			=	Has ability to climb up the walls (Button E)
+ML_D_WARIOR			=	Has 1/5 chances for instant kill with FAMAS and invisibility while holding a knife.
+
+
+ML_ROCKETS			=	Rockets
+ML_MED_KITS			=	Med Kits
+ML_DYNAMITES			=	Dynamites
+ML_MINES			=	Mines
+ML_NO_CLIP			=	No clip turns off in:
+ML_NO_SENTRY			=	You do not have more sentry guns.
+
+ML_WAIT_FOR			=	Wait for %.2f secounds before shooting another rocket!
+
+ML_ORDIRARY_CLASSES		=	y[rFreey] wClasses
+ML_STEAM_CLASSES		=	y[rSteam Onlyy] wClasses
+ML_PREMIUM_CLASSES		=	y[rPremiumy] wClasses
+ML_SUPER_CLASSES		=	y[rSupery] wClasses
+ML_EXTRA_P_CLASSES		=	y[rExtra Premiumy] wClasses
+ML_VIP_CLASSES			=	y[rVIPy] wClasses
+
+[sr]
+ML_MARINE			=	Marinac
+ML_HEAD_SHOOTER			=	Head Shooter
+ML_KAMIKAZE			=	Kamikaza
+ML_SWAT				=	S.W.A.T
+ML_PRICE			=	Price
+ML_SiMAN			=	Siman
+ML_PRO_SHOOTER			=	Pro-Strelac
+ML_ATTACKER			=	Napadac
+ML_PRO_MINER			=	Pro Miner
+ML_SOLDIER			=	Vojnik
+ML_JSO				=	JSO
+ML_OPS				=	OPS
+ML_RAMBO			=	Rambo
+ML_GUNNER			=	Gunner
+ML_FIRE_SUPPORT			=	Vatrena Podrska
+ML_SNIPERMAN			=	Snajperista
+ML_CRYSIS			=	Crysis
+ML_PARTISAN			=	Partizan
+ML_PHANTOM			=	Fantom
+ML_IRONMAN			=	Iron Man
+	
+ML_FROKI			=	Froki
+ML_ADRENALINE			=	Adrenalin
+	
+ML_CADET			=	Kadet
+ML_GENERAL			=	General
+ML_ASSASSIN			=	Assassin
+ML_HITLER			=	Hitler
+ML_SERGEANT_MAJOR		=	Zastavnik	
+ML_VOJSKOVODJA			=	Vojskovodja
+ML_OFFICER			=	Oficir
+ML_ADMIRAL			=	Admiral
+ML_VASILI_ZAITSEV		=	Vasilij Zajcev
+ML_JOHN_WAYANE			=	Dzon Vejn
+ML_PRO_SWAT			=	Pro S.W.A.T
+ML_SAMI				=	Sami
+
+ML_PRIEST			=	Svestenik
+ML_HITMAN			=	Hitman
+ML_INDIAN			=	Indijanac
+ML_HELL_BOY			=	Hell Boy
+ML_SIMKE			=	Simke
+ML_MAD_MAX			=	Pobesneli Maks
+ML_DESTROYER			=	Razarac
+ML_NINJA			=	Nindza.
+ML_ROCKER			=	Roker
+	
+ML_GHOST			=	Duh
+ML_GLACIER			=	Glacier
+ML_SHREDDER			=	Shredder
+ML_ENGEENER			=	Inzinjer
+ML_PREDATOR			=	Predator
+ML_WOLVERINE			=	Vulverin
+ML_PRO_ASSASSIN			=	Pro Assassin
+ML_FRANKESTEIN			=	Frankestajn
+	
+ML_TALIBAN			=	Taliban
+ML_JUMPER			=	Skakac
+ML_SAMURAI			=	Samuraj
+ML_WARIOR			=	Ratnik
+
+ML_D_MARINE			=	Ubija iz prve nozem.
+ML_D_HEAD_SHOOTER		=	Ima 1/6 sansi da upuca protivnika u glavu.
+ML_D_KAMIKAZE			=	Eksplodira kada umre i moze da vidi nevidljive igrace (X-Ray).
+ML_D_SWAT			=	Ima otpornost na noz.
+ML_D_PRICE			=	Ima 1/3 sanse za ubistvo iz prve sa USP-om.
+ML_D_SiMAN			=	Ima precizno pucanje.
+ML_D_PRO_SHOOTER		=	Ima 1/3 sanse za ubistvo iz prve sa AWP-om i ima 3 rakete.
+ML_D_ATTACKER			=	Ima 3 dinamita.
+ML_D_PRO_MINER			=	Ima 5 mina.
+ML_D_SOLDIER			=	Ima 1 raketu i otpornost na prva 3 metka po rundi.
+ML_D_JSO			=	Ima precizno pucanje.
+ML_D_OPS			=	Ima 1/3 sanse za ubistvo iz prve sa Deagle-om.
+ML_D_RAMBO			=	Nevidljiv kada cuci i drzi noz.
+ML_D_GUNNER			=	Ima 1 raketu, otpornost na pogodke u glavu i precizno pucanje.
+ML_D_FIRE_SUPPORT		=	Ima 3 rakete i izgleda kao neprijatelj.
+ML_D_SNIPERMAN			=	Ima 1/2 sanse za ubistvo iz prve sa AWP-om.
+ML_D_CRYSIS			=	Ima 3 rakete.
+ML_D_PARTISAN			=	Ima 1 minu.
+ML_D_PHANTOM			=	Nevidljiv dok drzi noz, ima sposobnost da se penje na zidove (Dugme E).^nIma poseban skin noza.
+ML_D_IRONMAN			=	Ima 1/10 sanse za ubistvo iz prve sa AUG-om i ima 1/6 sanse da oslepi neprijatelja.
+	
+ML_D_FROKI			=	Ubija iz prve sa AWP-om, ima necujno hodanje i 2 rakete.
+ML_D_ADRENALINE			=	Ima 1/2 sanse za ubistvo iz prve sa Deagle-om i ima nevidljivost dok cuci.
+	
+ML_D_CADET			=	Ima 1/3 sanse za ubistvo iz prve sa USP-om i otpornost na eksplozije, mine, rakete, noz, dinamite ...
+ML_D_GENERAL			=	Ima 1/5 sanse za ubistvo iz prve sa FAMAS-om i 1/4 sa GLOCK-om.
+ML_D_ASSASSIN			=	Ubija iz prve sa nozem (Desni Klik), ima 1/3 sanse za ubistvo iz prve sa Deagle-om.^nIma nevidljivost dok drzi noz ne mogu da ga vide igraci sa X-Ray-om.
+ML_D_HITLER			=	Ima 1/8 sanse za ubistvo iz prve sa AK-47 i 3 mine.
+ML_D_SERGEANT_MAJOR		=	Ima 1/7 sanse za ubistvo iz prve sa AK-47 i XM1014 i ima 3 mine.
+ML_D_VOJSKOVODJA		=	Ima 1/5 sanse za ubistvo iz prve sa UMP-45 i ima 5 rakete.
+ML_D_OFFICER			=	Ima 1/6 sanse za ubistvo iz prve sa TMP-om i nevidljivost dok cuci.
+ML_D_ADMIRAL			=	Ima +8% ostecenja sa svim puskama i ima 5 dinamita.
+ML_D_VASILI_ZAITSEV		=	Ubija iz prve sa AWP-om i otpornost na prva 3 metka po rundi.
+ML_D_JOHN_WAYANE		=	Ima 1/6 sanse za ubistvo iz prve sa Dual Elites i moze da vidi nevidljive igrace (X-Ray).
+ML_D_PRO_SWAT			=	Ima 1/5 sanse za ubistvo iz prve sa M4A1 i otpornost na eksplozije, mine, rakete, noz, dinamite ...
+ML_SAMI				=	Ima 1/8 sanse za ubistvo iz prve sa M4A1 i nevidljivost kada cuci.^nrKLASA NAPRAVLJENA SAMO ZA SAMI-JA!!!!
+
+ML_D_PRIEST			=	Ima 1/7 sanse za ubistvo iz prve sa MP5-om i 1/4 sa USP-om.^nMoze da ozivi mrtve saborce.^nIma 1/6 sansi da natera protivnika da baci oruzje.
+ML_D_HITMAN			=	Ima 1/6 sanse za ubistvo iz prve sa svim oruzijima koje pokupi sa poda.^nIma 1/3 sanse da ubije iz prve sa USP-om.^nIma poseban model USP-a.
+ML_D_INDIAN			=	Ubija iz prve sa Lukom i Strelom, necunjno hodanje^nMoze da vidi nevidljive igrace (X-Ray).
+ML_D_HELL_BOY			=	Moze da prima povrede ako ga neko puca u glavu i ima 2 rakete.
+ML_D_SIMKE			=	Ima 1/4 sanse za ubistvo iz prve sa USP-om i 1/5 sa Dual Elites, ima 1 raketu i 2 dinamita.^nPuca samo u glavu sa Deagle-om.
+ML_D_MAD_MAX			=	Ima 1/4 sanse za ubistvo iz prve sa USP-om i Jet Pack.
+ML_D_DESTROYER			=	Ima 1/10 sanse za ubistvo iz prve sa AK-47 i 1/6 sa USP-om i ima 10 dinamita.^nIma nevidljivost dok cuci.
+ML_D_NINJA			=	Ubija iz prve sa Katanom, nevidljivost kada drzi katanu, necujno hodanje.^nIma sposobnost da se penje na zidove (Dugme E) i smanjenu gravitaciju.
+ML_D_ROCKER			=	Ima 1/6 sanse za ubistvo iz prve sa Gitarom, precizno pucanje, moze da sutne neprijatelja kada klikne dugme E.^nSutiranje ubija iz prve.
+	
+ML_D_GHOST			=	Ubija iz prve sa AWP-om i nozem i ima nevidljivost dok drzi noz.
+ML_D_GLACIER			=	Ima beskonacno metaka, 1/8 sanse za ubistvo iz prve sa AK-47 i M4A1 i ima precizno pucanje.
+ML_D_SHREDDER			=	Ima 1/10 sansi da ubije iz prve sa AK-47 i necujno hodanje.
+ML_D_PREDATOR			=	Ubija iz prve sa SCOUT-om, ima 1/10 sanse za ubistvo iz prve sa XM1014.^nIma predator model igraca i poseban SCOUT model.
+ML_D_WOLVERINE			=	Ima kandze, kada ih aktivira pritiskom na dugme E ima vecu gravitaciju i brzinu^nIma otpornost na pogotke u glavu i nevidljiv je kada drzi kandze.
+ML_D_PRO_ASSASSIN		=	Ubija iz prve sa nozem (Desni Klik) i skroz nevidljiv.
+ML_D_FRANKESTEIN		=	Ima No-Clip na 15 sekundi (Da aktiviras klikni dugme rEy).^nUbija iz prve sa nozem i nevidljiv je dok drzi noz.
+	
+ML_D_TALIBAN			=	Ima 2 rakete.
+ML_D_JUMPER			=	Ima Jet Pack i 4 skoka.
+ML_D_SAMURAI			=	Ima sposobnost da se penje na zidove (Dugme E).
+ML_D_WARIOR			=	Ima 1/5 sanse za ubistvo iz prve sa FAMAS-om i nevidljivost dok drzi noz.
+
+ML_ROCKETS			=	Rakete
+ML_MED_KITS			=	Pakovanja prve pomoci
+ML_DYNAMITES			=	Dinamiti
+ML_MINES			=	Mine
+ML_NO_CLIP			=	No Clip se gasi za:
+ML_NO_SENTRY			=	Nemas vise Sentry mitraljeza!
+
+ML_WAIT_FOR			=	Moras da sacekas %.2f da bi ispalio raketu opet!
+
+ML_ORDIRARY_CLASSES		=	y[rBesplatney] wKlase
+ML_STEAM_CLASSES		=	y[rSamo Steamy] wKlase
+ML_PREMIUM_CLASSES		=	y[rPremiumy] wKlase
+ML_SUPER_CLASSES		=	y[rSupery] wKlase
+ML_EXTRA_P_CLASSES		=	y[rEkstra Premiumy] wKlase
+ML_VIP_CLASSES			=	y[rVIPy] wKlase                                                                                                                                              

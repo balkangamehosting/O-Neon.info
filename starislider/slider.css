@@ -1,0 +1,248 @@
+.slaj {
+width: 100%;
+height: 100%;
+}
+
+.pocetak {
+	position:absolute;
+	width: 80%;
+	height: 300px;
+}
+.sliderslika{
+	width:80%;
+	height: 100%;
+z-index:-1;
+}
+.veza{
+	width: 80%;
+	height: 300px;
+	
+}
+.menu{
+	z-index:1;
+	width:412px;
+	height: 453px;
+	float:right;
+	position:absolute;
+	top:-347px;
+	left:-90px;
+}
+
+/* ovo je za javu css */
+.slidermenu1{	
+		z-index:-1;
+	   width: 115%;
+       height: 0;
+    border-top: 75px solid #065794;
+    border-left: 30px solid transparent;
+opacity: 0.99;
+}
+.slidermenu2{
+opacity: 0.99;
+z-index:-1;
+	     width: 107.6%;
+       height: 0;
+    border-top: 75px solid #065794;
+    border-left: 30px solid transparent;
+ position:relative;
+ left:30px;
+
+}
+.slidermenu3{
+opacity: 0.99;
+z-index:-1;
+	    width: 100.2%;
+       height: 0;
+    border-top: 75px solid #065794;
+    border-left: 30px solid transparent;
+	position:relative;
+ left:60px;
+
+}
+.slidermenu4{
+	opacity: 0.99;
+z-index:-1;
+	    width: 93.2%;
+       height: 0;
+    border-top: 75px solid #065794;
+    border-left: 30px solid transparent;
+position:relative;
+ left:90px;
+}
+.nslidermenu1{
+
+
+    	
+		z-index:-1;
+	    width: 115%;
+       height: 0;
+    border-top: 75px solid #010e16;
+    border-left: 30px solid transparent;
+
+}
+.nslidermenu2{
+
+z-index:-1;
+	 width: 107.6%;
+       height: 0;
+    border-top: 75px solid #010e16;
+    border-left: 30px solid transparent;
+ position:relative;
+ left:30px;
+
+}
+.nslidermenu3{
+
+z-index:-1;
+	    width: 100.4%;
+       height: 0;
+    border-top: 75px solid #010e16;
+    border-left: 30px solid transparent;
+	position:relative;
+ left:60px;
+
+}
+.nslidermenu4{
+z-index:-1;
+	    width: 93.2%;
+       height: 0;
+    border-top: 77px solid #010e16;
+    border-left: 30px solid transparent;
+position:relative;
+ left:90px;
+}
+.nn1{
+	margin: 10;
+	display:inline;
+	width: 0px;
+height: 0px;
+border-style: solid;
+border-width: 0px 7.5px 15px 7.5px;
+border-color: transparent transparent #cecfd0 transparent;
+}
+.nn2{
+	margin: 10px;
+	display:inline;
+	width: 0px;
+height: 0px;
+border-style: solid;
+border-width: 0px 7.5px 15px 7.5px;
+border-color: transparent transparent #cecfd0 transparent;
+}
+.nn3{
+	margin: 10;
+	display:inline;
+	width: 0px;
+height: 0px;
+border-style: solid;
+border-width: 0px 7.5px 15px 7.5px;
+border-color: transparent transparent #cecfd0 transparent;
+}
+.nn4{
+	margin: 10px;
+	display:inline;
+	width: 0px;
+height: 0px;
+border-style: solid;
+border-width: 0px 7.5px 15px 7.5px;
+border-color: transparent transparent #cecfd0 transparent;
+}
+.a1{
+	margin: 10px;
+	display:inline;
+	width: 0px;
+height: 0px;
+border-style: solid;
+border-width: 0px 7.5px 15px 7.5px;
+border-color: transparent transparent #084bba transparent;
+}
+.a2{
+	margin: 10px;
+	display:inline;
+	width: 0px;
+height: 0px;
+border-style: solid;
+border-width: 0px 7.5px 15px 7.5px;
+border-color: transparent transparent #084bba transparent;
+}
+.a3{
+	margin: 10px;
+	display:inline;
+	width: 0px;
+height: 0px;
+border-style: solid;
+border-width: 0px 7.5px 15px 7.5px;
+border-color: transparent transparent #084bba transparent;
+}
+.a4{
+	margin: 10px;
+	display:inline;
+	width: 0px;
+height: 0px;
+border-style: solid;
+border-width: 0px 7.5px 15px 7.5px;
+border-color: transparent transparent #084bba transparent;
+}
+/* zavrseno */
+.text{
+	color:white;
+}
+.tekst{
+	position:absolute;
+	top:-70px;
+}
+#txta{
+	width:10px;
+	height:20px;
+}
+.pomjeri{
+width:290px;
+	position:absolute;
+	left:120px;
+	top: -38px;
+}
+.pomjeri2{
+width:290px;
+	position:absolute;
+	left:90px;
+	top: -38px;
+}
+.pomjeri3{
+width:290px;
+	position:absolute;
+	left:60px;
+	top: -38px;
+}
+.pomjeri4{
+width:290px;
+	position:absolute;
+	left:30px;
+	top: -38px;
+}
+.prv{
+	position:absolute;
+	left:15px;
+	top:25px;
+}
+.drv{
+	position:absolute;
+	left:15px;
+	top:25px;
+}
+.trv{
+	position:absolute;
+	left:15px;
+	top:25px;
+}
+.crv{
+	position:absolute;
+	top:25px;
+}
+.donjidiv{
+	height:48px;
+	width:80%;
+	background-color:#15161a;
+	  opacity: 0.8;
+	  position:absolute;
+	top:-48px;
+}

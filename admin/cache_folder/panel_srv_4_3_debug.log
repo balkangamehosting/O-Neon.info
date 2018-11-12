@@ -1,0 +1,5 @@
+----------------------------------------------
+CRASH: Thu Oct 26 20:07:36 CEST 2017
+Start Line: ./hlds_linux -game cstrike +ip 178.32.196.240 +port 27015 +maxplayers 32 +sys_ticrate 333 +map de_dust +servercfgfile server.cfg
+End of crash report
+----------------------------------------------

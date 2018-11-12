@@ -1,0 +1,178 @@
+[en]
+MSG_HEADER = [EniGmA GaMinG]
+MSG_FLAGSTATE_NOTIFY = %%e[EniGmA GaMinG] %%g%s(%d)%%e captured the %%g[%s]%%e flag for the %%n%s%%e.
+MSG_FLAGSTATE_NOTIFY_OP = "%%g[EniGmA GaMinG] %%n%s(%d) captured the %%g[%s]%%e flag for the %s%%e."
+MSG_COUNTER = CS Flags restarting in %d
+MSG_RESTARTED = CS Flags restarted!
+MSG_CONS_NOCFG = Could not start csflags because there's no cfg file or file contains no flags.
+MSG_CONS_NOT_ENABLED = Could not start because CSFlags is not enabled.
+MSG_TIME_OVER = Time is over. Waiting for a winner...
+MSG_CHANGEMAP_DELAY = CS Flags match is over, waiting for the next map.
+HUD_TEAMWINNER = %s have won this match!
+HUD_TEAMWINS = %s win this flag round! 
+HUD_BESTSCORE = ^n^nBest scores in this match:
+TEAM_DESC_CT = CTs
+TEAM_DESC_T = Terrorists
+
+[fr]
+MSG_FLAGSTATE_NOTIFY = %%e[EniGmA GaMinG] %%n%s(%d)%%e a capture le drapeau %%g[%s]%%e pour les %%n%s%%e.
+MSG_FLAGSTATE_NOTIFY_OP = %%g[EniGmA GaMinG] %%e%s(%d) a capture le drapeau %%g[%s]%%e pour les %s%%e.
+MSG_COUNTER = Le mode Drapeau redemarre dans %d
+MSG_RESTARTED = Le mode Drapeau est redemarre avec succes !
+MSG_CONS_NOCFG = Impossible de demarrer le mode Drapeau car il n'y a aucun fichier de configuration ou ne contient aucun drapeau.
+MSG_CONS_NOT_ENABLED = Impossible de demarrer car le mode Drapeau n'est pas actif.
+MSG_RADIO_POINTSECURED = Le point de controle est securise.
+MSG_TIME_OVER = Fin du temps imparti. En attente d'un gagnant...
+MSG_CHANGEMAP_DELAY = Le match est fini, en attente de la prochaine map...
+HUD_TEAMWINNER = %s gagnent le match !
+HUD_TEAMWINS = %s gagnent cette partie de drapeau !
+HUD_BESTSCORE = ^n^nMeilleur scores dans ce match :
+TEAM_DESC_CT = CTs
+TEAM_DESC_T = Terrorists
+
+
+[ro]
+MSG_HEADER = [EniGmA GaMinG]
+MSG_FLAGSTATE_NOTIFY = %%e[EniGmA GaMinG] %%n%s(%d)%%e a capturat %%g[%s]%%e steag de la %%n%s%%e.
+MSG_FLAGSTATE_NOTIFY_OP = %%g[EniGmA GaMinG] %%e%s(%d) a capturat %%g[%s]%%e steag de la %s%%e.
+MSG_COUNTER = CS Flags se restarteaza in %d
+MSG_RESTARTED = CS Flags s-a restartat
+MSG_CONS_NOCFG = Nu se poate sa inceapa csflags deoarece nu este nici un fisier care sa contina csflags
+MSG_CONS_NOT_ENABLED = Could not start because CSFlags is not enabled.
+MSG_TIME_OVER = Time is over. Waiting for a winner...
+MSG_CHANGEMAP_DELAY = Meciul CS Flags match s-a terminat, astept pentru harta urmatoare
+HUD_TEAMWINNER = %s a castigat acest meci!
+HUD_TEAMWINS = %s a castigat aceasta runda! 
+HUD_BESTSCORE = ^n^nCele mai bune scoruri in meci:
+TEAM_DESC_CT = CT
+TEAM_DESC_T = Teroristi
+
+[sv]
+MSG_HEADER = [EniGmA GaMinG]
+MSG_FLAGSTATE_NOTIFY = %%e[EniGmA GaMinG] %%n%s(%d)%%e tog %%g[%s]%%e flagga f'o'r %%n%s%%e.
+MSG_FLAGSTATE_NOTIFY_OP = %%g[EniGmA GaMinG] %%e%s(%d) tog %%g[%s]%%e flagga f'o'r %s%%e.
+MSG_COUNTER = CS Flags omstart om %d
+MSG_RESTARTED = CS Flags har startat om!
+MSG_CONS_NOCFG = Kunde inte starta csflags f'o'r att det inte finns nagan cfg fil eller sa har filen inga flaggor.
+MSG_CONS_NOT_ENABLED = Kunde inte starta f'o'r att CSFlags inte 'a'r activerat.
+MSG_TIME_OVER = Tiden 'a'r 'o'ver. V'a'ntar pa en vinnare...
+MSG_CHANGEMAP_DELAY = Denna CS Flags match 'a'r 'o'ver, v'a'ntar pa nasta karta.
+HUD_TEAMWINNER = %s har vunnigt denna runda!
+HUD_TEAMWINS = %s vinner denna flagg-runda! 
+HUD_BESTSCORE = ^n^nB'a'sta po'a'ng i denna match:
+TEAM_DESC_CT = Anti-Terroristerna
+TEAM_DESC_T = Terroristerna
+
+[hu]
+MSG_HEADER = [EniGmA GaMinG]
+MSG_FLAGSTATE_NOTIFY = %%e[EniGmA GaMinG] %%n%s(%d)%%e elrabolt a %%g[%s]%%e zaszlot %%n%s%%e-ert.
+MSG_FLAGSTATE_NOTIFY_OP = %%g[EniGmA GaMinG] %%e%s(%d) elrabolt a %%g[%s]%%e zaszlot %s%%e-ert.
+MSG_COUNTER = CS Flags ujrakezdes %d mulva
+MSG_RESTARTED = CS Flags ujrakezdve!
+MSG_CONS_NOCFG = Nem lehet elinditani a csflags-et mert nincs cfg file vagy nem tartalmaz zaszlot.
+MSG_CONS_NOT_ENABLED = Nem lehet elinditani mert, a CSFlags nincs engedelyezve.
+MSG_TIME_OVER = Lejart az ido. Nyertesre varakozas...
+MSG_CHANGEMAP_DELAY = CS Flags meccs vege, kovetkezo palyara varakozas.
+HUD_TEAMWINNER = %s megnyerte a meccset!
+HUD_TEAMWINS = %s megnyerte ezt a kort!
+HUD_BESTSCORE = ^n^nLegjobb eredmenyek ebben a meccsben:
+TEAM_DESC_CT = CT
+TEAM_DESC_T = Terror
+
+[fin]
+MSG_HEADER = [EniGmA GaMinG]
+MSG_FLAGSTATE_NOTIFY = %%e[EniGmA GaMinG] %%n%s(%d)%%e kaappasi %%g[%s]%%e hyvaksi %%n%s%%e.
+MSG_FLAGSTATE_NOTIFY_OP = %%g[EniGmA GaMinG] %%e%s(%d) kaappasi %%g[%s]%%e hyvaksi %s%%e.
+MSG_COUNTER = CS Flags aloitetaan uudestaan %d
+MSG_RESTARTED = CS Flags aloitettu uudestaan!
+MSG_CONS_NOCFG = Ei voitu aloittaa csflagsia koska ei ollut cfg tiedostoa tai tiedosto ei sisaltanyt lippuja.
+MSG_CONS_NOT_ENABLED = Could not start because CSFlags is not enabled.
+MSG_TIME_OVER = Aika on loppu. Odotellaan voittajaa...
+MSG_CHANGEMAP_DELAY = CS Flags matsi on ohi, odotellaan kartan vaihtumista.
+HUD_TEAMWINNER = %s sina voitit taman matsin!
+HUD_TEAMWINS = %s voita tama flag roundi! 
+HUD_BESTSCORE = ^n^Parhaimmat pisteet tassa matsissa:
+TEAM_DESC_CT = CTs
+TEAM_DESC_T = Terrorists
+
+
+[de]
+MSG_HEADER = [EniGmA GaMinG]
+MSG_FLAGSTATE_NOTIFY = %%e[EniGmA GaMinG] %%n%s(%d)%%e eroberte Flagge %%g[%s]%%e fuer die %%n%s%%e.
+MSG_FLAGSTATE_NOTIFY_OP = %%g[EniGmA GaMinG] %%g%s(%d) eroberte Flagge %%g[%s]%%e fuer die %s%%e.
+MSG_COUNTER = CS Flags neustart in%d
+MSG_RESTARTED = CS Flags neugestartet!
+MSG_CONS_NOCFG = Kann CSFlags nicht starten, da keine CFG Datei vorhanden ist!
+MSG_CONS_NOT_ENABLED = Kann nicht starten, da CSFlags nicht aktiviert ist
+MSG_TIME_OVER = Zeit ist um. Warten auf einen Gewinner!
+MSG_CHANGEMAP_DELAY = CSFlags kampf ist um. Warten auf die naechste Map
+HUD_TEAMWINNER = %s haben den Kampf gewonnen
+HUD_TEAMWINS = %s hat diese Runde gewonnen
+HUD_BESTSCORE = ^n^nBeste Punkte in diesem Kampf:
+TEAM_DESC_CT = CTs
+TEAM_DESC_T = Terrorists
+
+[bp]
+MSG_HEADER = [EniGmA GaMinG]
+MSG_FLAGSTATE_NOTIFY = %%e[EniGmA GaMinG] %%g%s(%d)%%e capturou a bandeira %%g[%s]%%e para os %%n%s%%e.
+MSG_FLAGSTATE_NOTIFY_OP = "%%g[EniGmA GaMinG] %%n%s(%d) capturou a bandeira %%g[%s]%%e para os %s%%e."
+MSG_COUNTER = CS Flags reiniciara em %d
+MSG_RESTARTED = CS Flags reiniciado!
+MSG_CONS_NOCFG = Nao foi possivel iniciar o csflags porque nao ha arquivo de configuracao ou o arquivo nao contem bandeiras.
+MSG_CONS_NOT_ENABLED = Nao foi possivel iniciar porque o CSFlags nao esta habilitado.
+MSG_TIME_OVER = O tempo acabou. Esperando por um vencedor...
+MSG_CHANGEMAP_DELAY = A partida de CS Flags esta finalizada; esperando pelo proximo mapa.
+HUD_TEAMWINNER = %s ganharam a partida!
+HUD_TEAMWINS = %s ganharam esta rodada! 
+HUD_BESTSCORE = ^n^nMelhores pontuacoes da partida:
+TEAM_DESC_CT = CTs
+TEAM_DESC_T = Terroristas
+
+[nl]
+MSG_HEADER = [EniGmA GaMinG]
+MSG_FLAGSTATE_NOTIFY = %%e[EniGmA GaMinG] %%g%s(%d)%%e veroverde de %%g[%s]%%e vlag voor de %%n%s%%e.
+MSG_FLAGSTATE_NOTIFY_OP = "%%g[EniGmA GaMinG] %%n%s(%d) veroverde de %%g[%s]%%e vlag voor de %s%%e."
+MSG_COUNTER = CS Flags herstart over %d
+MSG_RESTARTED = CS Flags is herstart!
+MSG_CONS_NOCFG = CS Flags kon niet gestart worden omdat er geen cfg-bestand is of omdat daar geen vlaggen in stonden.
+MSG_CONS_NOT_ENABLED = CS Flags kon niet gestart worden omdat hij uitgeschakeld is
+MSG_TIME_OVER = Tijd is op. Wachten op een winnaar.
+MSG_CHANGEMAP_DELAY = CS Flags wedstrijd is voorbij. Wachten op de volgende map.
+HUD_TEAMWINNER = %s heeft deze wedstrijd gewonnen!
+HUD_TEAMWINS = %s heeft deze ronde gewonnen! 
+HUD_BESTSCORE = ^n^nBeste scores deze wedstrijd:
+TEAM_DESC_CT = CT's
+TEAM_DESC_T = Terroristen
+
+[es]
+MSG_HEADER = [EniGmA GaMinG]
+MSG_FLAGSTATE_NOTIFY = %%e[EniGmA GaMinG] %%g%s(%d)%%e han capturado la bandera de %%g[%s]%%e para los %%n%s%%e.
+MSG_FLAGSTATE_NOTIFY_OP = "%%g[EniGmA GaMinG] %%n%s(%d) han capturado la bandera de %%g[%s]%%e para los %s%%e."
+MSG_COUNTER = CS Flags reiniciando en %d
+MSG_RESTARTED = CS Flags reiniciado!
+MSG_CONS_NOCFG = No se puede iniciar csflags porque no existe el archivo cfg o porque el archivo no contiene banderas.
+MSG_CONS_NOT_ENABLED = No se puede inciar CSFlags por que no esta habilitado.
+MSG_TIME_OVER = El tiempo a acabado. Esperando por un ganador...
+MSG_CHANGEMAP_DELAY = La partida de CS Flags ha terminado, esperando por el proximo mapa.
+HUD_TEAMWINNER = %s han ganado esta partida!
+HUD_TEAMWINS = %s han ganado esta ronda!
+HUD_BESTSCORE = ^n^nMejores resultados en esta partida:
+TEAM_DESC_CT = CTs
+TEAM_DESC_T = Terroristas
+
+[pl]
+MSG_HEADER = [EniGmA GaMinG]
+MSG_FLAGSTATE_NOTIFY = %%e[EniGmA GaMinG] %%g%s(%d)%%e przejal  flage %%g[%s]%%e dla %%n%s%%e.
+MSG_FLAGSTATE_NOTIFY_OP = "%%g[EniGmA GaMinG] %%n%s(%d) przejal flage %%g[%s]%%e dla %s%%e."
+MSG_COUNTER = Restart flag za %d
+MSG_RESTARTED = Flagi zrestartowane!
+MSG_CONS_NOCFG = Nie mozna rozpoczac rozgrywki, poniewaz nie ma configu  albo pliku z mapami.
+MSG_CONS_NOT_ENABLED = Nie mozna rozpoczac rozgrywki, poniewaz CSFlag jest wylaczony.
+MSG_TIME_OVER = Czas dobiegl konca. Czekamy na zwyciezce...
+MSG_CHANGEMAP_DELAY = Mecz CS Flags dobiegl konca, czekamy na nastepna mape.
+HUD_TEAMWINNER = %s wygrali ta rozgrywke!
+HUD_TEAMWINS = %s Wygrali ta runde! 
+HUD_BESTSCORE = ^n^nNajlepszymi w tym spotkaniu byli:
+TEAM_DESC_CT = Anty-terrorysci
+TEAM_DESC_T = Terrorysci
+                                    
