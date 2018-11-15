@@ -153,7 +153,7 @@
 	    	    $cmd1 = 'screen -m -S '.$ftp_username.'_reinstall';	    
 	    	    fwrite( $stream, "$cmd1\n");
 	    	    sleep(1);
-	    	    $cmd2 = 'nice -n 19 rm -Rf /home/'.$ftp_username.'/* && cp -Rf '.$mod_putanja.'/* /home/'.$ftp_username.' && sudo chmod -R 777 '.$ftp_username.':'.$ftp_username.' /home/'.$ftp_username.' && exit';
+	    	    $cmd2 = 'nice -n 19 rm -Rf /home/'.$ftp_username.'/* && cp -Rf '.$mod_putanja.'/* /home/'.$ftp_username.' && sudo chmod -R 755 '.$ftp_username.':'.$ftp_username.' /home/'.$ftp_username.' && exit';
 	    	    fwrite( $stream, "$cmd2\n");
 	    	    sleep(1);
 
@@ -181,7 +181,7 @@
 	    	    $cmd1 = 'screen -m -S '.$ftp_username.'_delAll';	    
 	    	    fwrite( $stream, "$cmd1\n");
 	    	    sleep(1);
-	    	    $cmd2 = 'nice -n 19 rm -Rf /home/'.$ftp_username.'/* && sudo chmod -R 777 '.$ftp_username.':'.$ftp_username.' /home/'.$ftp_username.' && exit';
+	    	    $cmd2 = 'nice -n 19 rm -Rf /home/'.$ftp_username.'/* && sudo chmod -R 755 '.$ftp_username.':'.$ftp_username.' /home/'.$ftp_username.' && exit';
 	    	    fwrite( $stream, "$cmd2\n");
 	    	    sleep(1);
 
@@ -209,7 +209,7 @@
 	    	    $cmd1 = 'screen -m -S '.$ftp_username.'_mod';	    
 	    	    fwrite( $stream, "$cmd1\n");
 	    	    sleep(1);
-	    	    $cmd2 = 'nice -n 19 rm -Rf /home/'.$ftp_username.'/* && cp -Rf '.$mod_putanja.'/* /home/'.$ftp_username.' && sudo chmod -R 777 '.$ftp_username.':'.$ftp_username.' /home/'.$ftp_username.' && exit';
+	    	    $cmd2 = 'nice -n 19 rm -Rf /home/'.$ftp_username.'/* && cp -Rf '.$mod_putanja.'/* /home/'.$ftp_username.' && sudo chmod -R 755 '.$ftp_username.':'.$ftp_username.' /home/'.$ftp_username.' && exit';
 	    	    fwrite( $stream, "$cmd2\n");
 	    	    sleep(2);
 
