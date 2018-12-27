@@ -20,7 +20,7 @@ echo "chroot_local_user=YES" >> /etc/vsftpd/vsftpd.conf
 echo 'allow_writeable_chroot=YES' >> /etc/vsftpd/vsftpd.conf
 systemctl restart vsftpd
 systemctl enable vsftpd
-chmod -R 777 /home
+chmod -R 775 /home
 clear;
 echo "Instalirani fajlovi za igre!"
 
@@ -30,7 +30,7 @@ wget http://files.sa-mp.com/samp037svr_R2-1.tar.gz
 tar xf samp037svr_R2-1.tar.gz
 mv samp03 samp
 rm samp037svr_R2-1.tar.gz
-chmod -R 777 /home
+chmod -R 775 /home
 clear;
 echo "SAMP INSTALIRAN!"
 
@@ -41,7 +41,7 @@ cd /home/gamefiles/mc
 wget https://cdn.getbukkit.org/spigot/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar
 mv spigot-1.8.8-R0.1-SNAPSHOT-latest.jar spigot.jar
 echo "eula=true" > eula.txt
-chmod -R 777 /home
+chmod -R 775 /home
 clear;
 echo "MINECRAFT INSTALIRAN!"
 
@@ -49,7 +49,7 @@ cd /home/gamefiles/
 wget http://cs.o-neon.host/dl/public.zip
 unzip public.zip
 rm public.zip
-chmod -R 777 /home
+chmod -R 775 /home
 clear;
 echo "CS 1.6 PUBLIC INSTALIRAN!"
 
