@@ -1,6 +1,6 @@
 <?php
 //MASTER CRON PROVERA 2 DANA IZBACUJE SERVER SA BOOSTA
-//ROOT
+//ROOTSEC
 include 'connect_db.php';
 
 $masterserveriq = $mdb->query("SELECT * FROM `t2`");
@@ -18,7 +18,7 @@ if(strtotime($istice)<strtotime($vremeboosta))
 	$br++;			
 	}
 }
-	echo "Uspešno obrisano sa master servera ". $br. " servera";
+	echo "UspeÅ¡no obrisano sa master servera ". $br. " servera";
 
 }
 ?>
