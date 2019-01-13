@@ -1,7 +1,7 @@
 <?php
 //header("Location: /logout.php");
 //Kevia
-include "/inc/libs/mysql2mysqli.php"; //root php 5.6 rewrite to php7+
+//include "/inc/libs/mysql2mysqli.php"; //root php 5.6 rewrite to php7+
 error_reporting(E_ALL);
 session_start();
 ob_start();
@@ -25,7 +25,7 @@ if (!mysql_select_db(DB_NAME, $db)) {
 }
 
 //MASTER CONNECT
-$mdb = new mysqli(MASTER_HOST, MASTER_USER, MASTER_PASS, MASTER_NAME);
+//$mdb = new mysqli(MASTER_HOST, MASTER_USER, MASTER_PASS, MASTER_NAME);
 
 /* Jezik */
 
@@ -33,7 +33,7 @@ include 'jezik/index.php';
 
 /* CS by GH.biz link */
 
-$dl_link_cs = "https://cs.o-neon.info/"; // Link counter-strike 1.6
+$dl_link_cs = "https://cs.gametracker.xyz/"; // Link counter-strike 1.6
 
 // Set all default avatar
 //$avatar = mysql_query("UPDATE `klijenti` SET `avatar` = 'default.png' WHERE `status` = 'Aktivan'");
