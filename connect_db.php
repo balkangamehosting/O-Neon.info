@@ -10,7 +10,7 @@ define('DB_HOST', 'localhost');
 define('DB_USER', '');
 define('DB_PASS', '');
 define('DB_NAME', 'admin_oneon');
-//root
+//rootsec
 define('MASTER_HOST', 'localhost');
 define('MASTER_USER', '');
 define('MASTER_PASS', '');
