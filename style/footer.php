@@ -11,16 +11,20 @@
 					<p>O-Neon.info se bavi hostovanjem game servera! Nastao je 2015 godine i mozemo se pohvaliti dosadasnjim uspehom! Nasi serveri se hostuju na Nemackim masinama! Trenutno u ponudi imamo CS,SAMP,MC servere,a takodje radimo na tome da prosirimo nase trziste! Ping se krece 20-50ms sto zavisi od vasih internet provajdera.</p>
 
 				</div>
-
+				<div class="col-md-2 col-sm-6 paddingtop-bottom">
+					<h6 class="heading7">Copyright</h6>
+					<div class="post">
+						<p>Muhamed Skoko <span>Developer</span></p>
+						<p>Nikita Sibul<span>Developer</span></p>
+						<p>Tosa <span>Dizajner</span></p>
+					</div>
+				</div>
 				<div class="col-md-2 col-sm-6 paddingtop-bottom">
 					<h6 class="heading7">LINKS</h6>
 					<ul class="footer-ul">
 						<li><a href="/home">Pocetna</a></li>
 						<li><a href="http://forum.o-neon.info/">Forum</a></li>
-						<li><a href="https://webpanel.o-neon.info/">WebPanel</a></li>
 						<li><a href="http://www.gametracker.xyz/">GameTracker.xyz</a></li>
-						<li><a href="http://www.rawcloud.info/">RawCloud</a></li>
-						<li><a href="https://leetstresser.com">LeetStresser</a></li>
 						<li><a href="http://www.youselfieme.pw/">YouSelfieMe</a></li>
 					</ul>
 				</div>
