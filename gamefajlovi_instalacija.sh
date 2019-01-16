@@ -15,7 +15,6 @@ yum install screen
 yum install unzip
 systemctl stop iptables
 systemctl disable iptables
-echo "Port 3144" >> /etc/ssh/sshd_config
 echo "chroot_local_user=YES" >> /etc/vsftpd/vsftpd.conf
 echo 'allow_writeable_chroot=YES' >> /etc/vsftpd/vsftpd.conf
 systemctl restart vsftpd
@@ -46,13 +45,7 @@ clear;
 echo "MINECRAFT INSTALIRAN!"
 
 cd /home/gamefiles/
-wget http://cs.o-neon.host/dl/public.zip
-unzip public.zip
-rm public.zip
-chmod -R 775 /home
-clear;
-echo "CS 1.6 PUBLIC INSTALIRAN!"
-
+mkdir pub
 
 clear;
 echo "ZAVRSENA INSTALACIJA!"
